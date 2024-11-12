@@ -1,0 +1,23 @@
+/* XPM */
+static const char *dmode[]={
+"16 15 5 1",
+"# c #808080",
+"b c #c00000",
+". c #c0c0c0",
+"a c #c3c3c3",
+"c c #ff0000",
+"................",
+"..########a.....",
+".##bbbbbb##a....",
+".##########aa...",
+".#bccbbbbb#aa...",
+".#bccbbbbb####..",
+".#bccbbbbb#aa.#.",
+".#bccbbbbb#####.",
+".#bccbbbbb#aa.#.",
+".#bccbbbbb#aa.#.",
+".##########aa.#.",
+".##bbbbbbb#####.",
+"..########aaa.#.",
+"....aaaa######..",
+".....aaaaaa....."};

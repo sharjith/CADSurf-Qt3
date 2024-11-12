@@ -1,0 +1,23 @@
+/* XPM */
+static const char *back[]={
+"16 16 4 1",
+". c None",
+"a c #800000",
+"b c #808080",
+"# c #ffff00",
+".............#..",
+"............#...",
+"...........#....",
+"....aaaaaaaaaa..",
+"...baa#aa#aaba..",
+"..b.aa#a#aabaa..",
+".bbbab##bbbaaa..",
+".b..aa####baaa..",
+".b..aaaaaabaaa..",
+".b..aaaaaabaaa..",
+".b..aaaaaabaaa..",
+".b..aaaaaabaaa..",
+".b..aaaaaaaaaa..",
+".b.b......b.b...",
+".bb.......bb....",
+".bbbbbbbbbb....."};

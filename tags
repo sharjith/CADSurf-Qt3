@@ -1,0 +1,922 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+AFX_USERSURFACE_H__799994D7_512A_4200_877D_F7AD0B3DF66E__INCLUDED_	UserSurface.h	/^#define AFX_USERSURFACE_H__799994D7_512A_4200_877D_F7AD0B3DF66E__INCLUDED_$/;"	d
+AddToSelection	GLDisplayContext.cpp	/^void CGLDisplayContext::AddToSelection(const CGLObject* O)$/;"	f	class:CGLDisplayContext
+AddToSelection	GLDisplayContext.h	/^	void AddToSelection(const CGLObject* O);$/;"	p	class:CGLDisplayContext
+AxonView	QGLView.cpp	/^void QGLView::AxonView()$/;"	f	class:QGLView
+AxonView	QGLView.h	/^	void AxonView();$/;"	p	class:QGLView
+BackView	QGLView.cpp	/^void QGLView::BackView()$/;"	f	class:QGLView
+BackView	QGLView.h	/^	void BackView();$/;"	p	class:QGLView
+BottomView	QGLView.cpp	/^void QGLView::BottomView()$/;"	f	class:QGLView
+BottomView	QGLView.h	/^	void BottomView();$/;"	p	class:QGLView
+CADSURFDOC_H	CadSurfDoc.h	/^#define CADSURFDOC_H$/;"	d
+CADSURFVIEW_H	CadSurfView.h	/^#define CADSURFVIEW_H$/;"	d
+CADSURF_H	CadSurf.h	/^#define CADSURF_H$/;"	d
+CGLDisplayContext	GLDisplayContext.cpp	/^CGLDisplayContext::CGLDisplayContext()$/;"	f	class:CGLDisplayContext
+CGLDisplayContext	GLDisplayContext.cpp	/^CGLDisplayContext::CGLDisplayContext(CadSurfDoc* pDoc)$/;"	f	class:CGLDisplayContext
+CGLDisplayContext	GLDisplayContext.h	/^	CGLDisplayContext();$/;"	p	class:CGLDisplayContext
+CGLDisplayContext	GLDisplayContext.h	/^	CGLDisplayContext(CadSurfDoc* pDoc);$/;"	p	class:CGLDisplayContext
+CGLDisplayContext	GLDisplayContext.h	/^class CGLDisplayContext  $/;"	c
+CHelix	Helix.cpp	/^CHelix::CHelix(const CAxisSystem& Ax, const double& radius, const double& start, const double& end, const double lead) : itsLead(lead)$/;"	f	class:CHelix
+CHelix	Helix.h	/^	CHelix(const CAxisSystem& Ax, const double& radius, const double& start, const double& end, const double lead);$/;"	p	class:CHelix
+CHelix	Helix.h	/^class CHelix : public CCircle3D $/;"	c
+CUserSurface	UserSurface.cpp	/^CUserSurface::CUserSurface()$/;"	f	class:CUserSurface
+CUserSurface	UserSurface.h	/^	CUserSurface();$/;"	p	class:CUserSurface
+CUserSurface	UserSurface.h	/^class CUserSurface : public CBasicSurface  $/;"	c
+CadSurfApp	CadSurf.cpp	/^CadSurfApp::CadSurfApp()$/;"	f	class:CadSurfApp
+CadSurfApp	CadSurf.h	/^	CadSurfApp();$/;"	p	class:CadSurfApp
+CadSurfApp	CadSurf.h	/^class CadSurfApp : public QMainWindow$/;"	c
+CadSurfDoc	CadSurfDoc.cpp	/^CadSurfDoc::CadSurfDoc()$/;"	f	class:CadSurfDoc
+CadSurfDoc	CadSurfDoc.h	/^    CadSurfDoc();$/;"	p	class:CadSurfDoc
+CadSurfDoc	CadSurfDoc.h	/^class CadSurfDoc : public QObject$/;"	c
+CadSurfView	CadSurfView.cpp	/^CadSurfView::CadSurfView(CadSurfDoc* pDoc, QWidget *parent, const char* name, int \/*wflags*\/)$/;"	f	class:CadSurfView
+CadSurfView	CadSurfView.h	/^    CadSurfView(CadSurfDoc* pDoc, QWidget* parent, const char *name, int wflags);$/;"	p	class:CadSurfView
+CadSurfView	CadSurfView.h	/^class CadSurfView : public QGLWidget$/;"	c
+Copy	Helix.cpp	/^CCurve* CHelix::Copy() const$/;"	f	class:CHelix
+Copy	Helix.h	/^	virtual CCurve* Copy() const;$/;"	p	class:CHelix
+Copy	UserSurface.cpp	/^CSurface* CUserSurface::Copy() const$/;"	f	class:CUserSurface
+Copy	UserSurface.h	/^	virtual CSurface* Copy() const;$/;"	p	class:CUserSurface
+CurrentSelected	GLDisplayContext.cpp	/^CGLObject* CGLDisplayContext::CurrentSelected() const$/;"	f	class:CGLDisplayContext
+CurrentSelected	GLDisplayContext.h	/^	CGLObject* CurrentSelected() const;$/;"	p	class:CGLDisplayContext
+DeleteAll	GLDisplayContext.cpp	/^void CGLDisplayContext::DeleteAll()$/;"	f	class:CGLDisplayContext
+DeleteAll	GLDisplayContext.h	/^	void DeleteAll();$/;"	p	class:CGLDisplayContext
+DeleteSelected	GLDisplayContext.cpp	/^void CGLDisplayContext::DeleteSelected()$/;"	f	class:CGLDisplayContext
+DeleteSelected	GLDisplayContext.h	/^	void DeleteSelected();$/;"	p	class:CGLDisplayContext
+Display	GLDisplayContext.cpp	/^void CGLDisplayContext::Display(const CGLObject* aO)$/;"	f	class:CGLDisplayContext
+Display	GLDisplayContext.h	/^	void Display(const CGLObject*);$/;"	p	class:CGLDisplayContext
+DisplayAll	GLDisplayContext.cpp	/^void CGLDisplayContext::DisplayAll()$/;"	f	class:CGLDisplayContext
+DisplayAll	GLDisplayContext.h	/^	void DisplayAll();$/;"	p	class:CGLDisplayContext
+DisplaySelected	GLDisplayContext.cpp	/^void CGLDisplayContext::DisplaySelected()$/;"	f	class:CGLDisplayContext
+DisplaySelected	GLDisplayContext.h	/^	void DisplaySelected();$/;"	p	class:CGLDisplayContext
+DownPoint	QGLView.h	/^	QPoint DownPoint;$/;"	m	class:QGLView
+Draw	QGLView.cpp	/^void QGLView::Draw()$/;"	f	class:QGLView
+Draw	QGLView.h	/^	void Draw();$/;"	p	class:QGLView
+DrawRectangle	CadSurfView.cpp	/^void CadSurfView::DrawRectangle (const int  MinX  ,$/;"	f	class:CadSurfView
+DrawRectangle	CadSurfView.h	/^	void DrawRectangle (const int  MinX  ,$/;"	p	class:CadSurfView
+EmptySelection	GLDisplayContext.cpp	/^void CGLDisplayContext::EmptySelection()$/;"	f	class:CGLDisplayContext
+EmptySelection	GLDisplayContext.h	/^	void EmptySelection();$/;"	p	class:CGLDisplayContext
+Erase	GLDisplayContext.cpp	/^void CGLDisplayContext::Erase(const CGLObject* aO)$/;"	f	class:CGLDisplayContext
+Erase	GLDisplayContext.h	/^	void Erase(const CGLObject*);$/;"	p	class:CGLDisplayContext
+EraseAll	GLDisplayContext.cpp	/^void CGLDisplayContext::EraseAll()$/;"	f	class:CGLDisplayContext
+EraseAll	GLDisplayContext.h	/^	void EraseAll();$/;"	p	class:CGLDisplayContext
+EraseSelected	GLDisplayContext.cpp	/^void CGLDisplayContext::EraseSelected()$/;"	f	class:CGLDisplayContext
+EraseSelected	GLDisplayContext.h	/^	void EraseSelected();$/;"	p	class:CGLDisplayContext
+FirstParameter	Helix.cpp	/^double CHelix::FirstParameter() const$/;"	f	class:CHelix
+FirstParameter	Helix.h	/^	virtual double FirstParameter() const;$/;"	p	class:CHelix
+FirstUParameter	UserSurface.cpp	/^double CUserSurface::FirstUParameter() const$/;"	f	class:CUserSurface
+FirstUParameter	UserSurface.h	/^	virtual double FirstUParameter() const;$/;"	p	class:CUserSurface
+FirstVParameter	UserSurface.cpp	/^double CUserSurface::FirstVParameter() const$/;"	f	class:CUserSurface
+FirstVParameter	UserSurface.h	/^	virtual double FirstVParameter() const;$/;"	p	class:CUserSurface
+Fit3d	QGLView.cpp	/^void QGLView::Fit3d(QRect rect)$/;"	f	class:QGLView
+Fit3d	QGLView.h	/^	void Fit3d(QRect zcRect);$/;"	p	class:QGLView
+FitAll	QGLView.cpp	/^void QGLView::FitAll()$/;"	f	class:QGLView
+FitAll	QGLView.h	/^	void FitAll();$/;"	p	class:QGLView
+FitView	QGLView.cpp	/^void QGLView::FitView()$/;"	f	class:QGLView
+FitView	QGLView.h	/^	void FitView();$/;"	p	class:QGLView
+FrontView	QGLView.cpp	/^void QGLView::FrontView()$/;"	f	class:QGLView
+FrontView	QGLView.h	/^	void FrontView();$/;"	p	class:QGLView
+GRIDSETTINGS_H	.ui/GridSettings.h	/^#define GRIDSETTINGS_H$/;"	d
+GetBoundingBox	GLDisplayContext.h	/^	CBoundingBox GetBoundingBox() const { return viewBox; }$/;"	f	class:CGLDisplayContext
+GetDisplayContext	CadSurfDoc.h	/^    CGLDisplayContext* GetDisplayContext() const { return dContext; }$/;"	f	class:CadSurfDoc
+GetDisplayMode	CadSurfView.h	/^	GLDisplayMode GetDisplayMode() const { return myView->GetDisplayMode(); }$/;"	f	class:CadSurfView
+GetDisplayMode	QGLView.h	/^	GLDisplayMode GetDisplayMode() const { return displayMode; }$/;"	f	class:QGLView
+GetMaterial	.ui/MaterialDlg.h	/^    virtual CGLMaterial GetMaterial() const;$/;"	p	class:MatlEditor
+GetMaterial	MaterialDlg.ui.h	/^CGLMaterial MatlEditor::GetMaterial() const$/;"	f	class:MatlEditor
+GetView	CadSurfView.h	/^	QGLView* GetView() const { return myView; }$/;"	f	class:CadSurfView
+GridSettings	.ui/GridSettings.cpp	/^GridSettings::GridSettings( QWidget* parent, const char* name, bool modal, WFlags fl )$/;"	f	class:GridSettings
+GridSettings	.ui/GridSettings.h	/^    GridSettings( QWidget* parent = 0, const char* name = 0, bool modal = FALSE, WFlags fl = 0 );$/;"	p	class:GridSettings
+GridSettings	.ui/GridSettings.h	/^class GridSettings : public QDialog$/;"	c
+GridSettingsLayout	.ui/GridSettings.h	/^    QGridLayout* GridSettingsLayout;$/;"	m	class:GridSettings
+HasSelected	GLDisplayContext.cpp	/^bool CGLDisplayContext::HasSelected() const$/;"	f	class:CGLDisplayContext
+HasSelected	GLDisplayContext.h	/^	bool HasSelected() const;$/;"	p	class:CGLDisplayContext
+InitGL	QGLView.cpp	/^void QGLView::InitGL()$/;"	f	class:QGLView
+InitGL	QGLView.h	/^	void InitGL();$/;"	p	class:QGLView
+InitSelected	GLDisplayContext.cpp	/^void CGLDisplayContext::InitSelected() const$/;"	f	class:CGLDisplayContext
+InitSelected	GLDisplayContext.h	/^	void InitSelected() const;$/;"	p	class:CGLDisplayContext
+IsAllDisplayed	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsAllDisplayed() const$/;"	f	class:CGLDisplayContext
+IsAllDisplayed	GLDisplayContext.h	/^	bool IsAllDisplayed() const;$/;"	p	class:CGLDisplayContext
+IsAllErased	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsAllErased() const$/;"	f	class:CGLDisplayContext
+IsAllErased	GLDisplayContext.h	/^	bool IsAllErased() const;$/;"	p	class:CGLDisplayContext
+IsClosed	Helix.cpp	/^bool CHelix::IsClosed() const$/;"	f	class:CHelix
+IsClosed	Helix.h	/^	virtual bool IsClosed() const;$/;"	p	class:CHelix
+IsDisplayed	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsDisplayed(const CGLObject* O) const$/;"	f	class:CGLDisplayContext
+IsDisplayed	GLDisplayContext.h	/^	bool IsDisplayed(const CGLObject*) const;$/;"	p	class:CGLDisplayContext
+IsEmpty	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsEmpty() const$/;"	f	class:CGLDisplayContext
+IsEmpty	GLDisplayContext.h	/^	bool IsEmpty() const;$/;"	p	class:CGLDisplayContext
+IsErased	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsErased(const CGLObject* O) const$/;"	f	class:CGLDisplayContext
+IsErased	GLDisplayContext.h	/^	bool IsErased(const CGLObject*) const;$/;"	p	class:CGLDisplayContext
+IsOfType	Helix.cpp	/^bool CHelix::IsOfType(const CurveType& theType) const$/;"	f	class:CHelix
+IsOfType	Helix.h	/^	bool IsOfType(const CurveType&) const;$/;"	p	class:CHelix
+IsSelected	GLDisplayContext.cpp	/^bool CGLDisplayContext::IsSelected(const CGLObject* O) const$/;"	f	class:CGLDisplayContext
+IsSelected	GLDisplayContext.h	/^	bool IsSelected(const CGLObject*) const;$/;"	p	class:CGLDisplayContext
+IsUClosed	UserSurface.cpp	/^bool CUserSurface::IsUClosed() const$/;"	f	class:CUserSurface
+IsUClosed	UserSurface.h	/^	virtual bool IsUClosed() const;$/;"	p	class:CUserSurface
+IsVClosed	UserSurface.cpp	/^bool CUserSurface::IsVClosed() const$/;"	f	class:CUserSurface
+IsVClosed	UserSurface.h	/^	virtual bool IsVClosed() const;$/;"	p	class:CUserSurface
+LastParameter	Helix.cpp	/^double CHelix::LastParameter() const$/;"	f	class:CHelix
+LastParameter	Helix.h	/^	virtual double LastParameter() const;$/;"	p	class:CHelix
+LastUParameter	UserSurface.cpp	/^double CUserSurface::LastUParameter() const$/;"	f	class:CUserSurface
+LastUParameter	UserSurface.h	/^	virtual double LastUParameter() const;$/;"	p	class:CUserSurface
+LastVParameter	UserSurface.cpp	/^double CUserSurface::LastVParameter() const$/;"	f	class:CUserSurface
+LastVParameter	UserSurface.h	/^	virtual double LastVParameter() const;$/;"	p	class:CUserSurface
+Lead	Helix.h	/^	double Lead() const { return itsLead;}$/;"	f	class:CHelix
+LeftView	QGLView.cpp	/^void QGLView::LeftView()$/;"	f	class:QGLView
+LeftView	QGLView.h	/^	void LeftView();$/;"	p	class:QGLView
+MATLEDITOR_H	.ui/MaterialDlg.h	/^#define MATLEDITOR_H$/;"	d
+MDIWINDOW_H	MDIWindow.h	/^#define MDIWINDOW_H$/;"	d
+MDIWindow	MDIWindow.cpp	/^MDIWindow::MDIWindow(QWidget *parent, const char *name , WFlags flags) : QMainWindow(parent,name, flags)$/;"	f	class:MDIWindow
+MDIWindow	MDIWindow.h	/^	MDIWindow(QWidget *parent=0, const char *name=0, WFlags = WType_TopLevel);$/;"	p	class:MDIWindow
+MDIWindow	MDIWindow.h	/^class MDIWindow : public QMainWindow  {$/;"	c
+MatlEditor	.ui/MaterialDlg.cpp	/^MatlEditor::MatlEditor( QWidget* parent, const char* name, bool modal, WFlags fl )$/;"	f	class:MatlEditor
+MatlEditor	.ui/MaterialDlg.h	/^    MatlEditor( QWidget* parent = 0, const char* name = 0, bool modal = FALSE, WFlags fl = 0 );$/;"	p	class:MatlEditor
+MatlEditor	.ui/MaterialDlg.h	/^class MatlEditor : public QDialog$/;"	c
+MatlEditorLayout	.ui/MaterialDlg.h	/^    QGridLayout* MatlEditorLayout;$/;"	m	class:MatlEditor
+Mirror	Helix.cpp	/^void CHelix::Mirror(const COneAxis&)$/;"	f	class:CHelix
+Mirror	Helix.cpp	/^void CHelix::Mirror(const CPlane&)$/;"	f	class:CHelix
+Mirror	Helix.cpp	/^void CHelix::Mirror(const CPoint3D&)$/;"	f	class:CHelix
+Mirror	Helix.h	/^	virtual void Mirror(const COneAxis&);$/;"	p	class:CHelix
+Mirror	Helix.h	/^	virtual void Mirror(const CPlane&);$/;"	p	class:CHelix
+Mirror	Helix.h	/^	virtual void Mirror(const CPoint3D&);$/;"	p	class:CHelix
+Mirror	UserSurface.cpp	/^void CUserSurface::Mirror(const COneAxis&)$/;"	f	class:CUserSurface
+Mirror	UserSurface.cpp	/^void CUserSurface::Mirror(const CPlane&)$/;"	f	class:CUserSurface
+Mirror	UserSurface.cpp	/^void CUserSurface::Mirror(const CPoint3D&)$/;"	f	class:CUserSurface
+Mirror	UserSurface.h	/^	virtual void Mirror(const COneAxis&);$/;"	p	class:CUserSurface
+Mirror	UserSurface.h	/^	virtual void Mirror(const CPlane&) ;$/;"	p	class:CUserSurface
+Mirror	UserSurface.h	/^	virtual void Mirror(const CPoint3D&);$/;"	p	class:CUserSurface
+MoreSelected	GLDisplayContext.cpp	/^bool CGLDisplayContext::MoreSelected() const$/;"	f	class:CGLDisplayContext
+MoreSelected	GLDisplayContext.h	/^	bool MoreSelected() const;$/;"	p	class:CGLDisplayContext
+MultiSelect	GLDisplayContext.cpp	/^bool CGLDisplayContext::MultiSelect(QGLView* aView, const int& x, const int&$/;"	f	class:CGLDisplayContext
+MultiSelect	GLDisplayContext.h	/^	bool MultiSelect(QGLView* aView, const int& x, const int& y);$/;"	p	class:CGLDisplayContext
+MultiSelect	QGLView.cpp	/^void QGLView::MultiSelect(const int &x, const int &y)$/;"	f	class:QGLView
+MultiSelect	QGLView.h	/^	void MultiSelect(const int& x, const int& y);$/;"	p	class:QGLView
+NextSelected	GLDisplayContext.cpp	/^void CGLDisplayContext::NextSelected() const$/;"	f	class:CGLDisplayContext
+NextSelected	GLDisplayContext.h	/^	void NextSelected() const;$/;"	p	class:CGLDisplayContext
+OnBezier	CadSurfDoc.cpp	/^void CadSurfDoc::OnBezier()$/;"	f	class:CadSurfDoc
+OnBezier	CadSurfDoc.h	/^    void OnBezier();$/;"	p	class:CadSurfDoc
+OnBspline	CadSurfDoc.cpp	/^void CadSurfDoc::OnBspline()$/;"	f	class:CadSurfDoc
+OnBspline	CadSurfDoc.h	/^    void OnBspline();$/;"	p	class:CadSurfDoc
+OnCircles	CadSurfDoc.cpp	/^void CadSurfDoc::OnCircles()$/;"	f	class:CadSurfDoc
+OnCircles	CadSurfDoc.h	/^    void OnCircles();$/;"	p	class:CadSurfDoc
+OnCone	CadSurfDoc.cpp	/^void CadSurfDoc::OnCone()$/;"	f	class:CadSurfDoc
+OnCone	CadSurfDoc.h	/^    void OnCone();$/;"	p	class:CadSurfDoc
+OnCylinder	CadSurfDoc.cpp	/^void CadSurfDoc::OnCylinder()$/;"	f	class:CadSurfDoc
+OnCylinder	CadSurfDoc.h	/^    void OnCylinder();$/;"	p	class:CadSurfDoc
+OnEllipse	CadSurfDoc.cpp	/^void CadSurfDoc::OnEllipse()$/;"	f	class:CadSurfDoc
+OnEllipse	CadSurfDoc.h	/^    void OnEllipse();$/;"	p	class:CadSurfDoc
+OnExtsurf	CadSurfDoc.cpp	/^void CadSurfDoc::OnExtsurf()$/;"	f	class:CadSurfDoc
+OnExtsurf	CadSurfDoc.h	/^    void OnExtsurf();$/;"	p	class:CadSurfDoc
+OnHyperbola	CadSurfDoc.cpp	/^void CadSurfDoc::OnHyperbola()$/;"	f	class:CadSurfDoc
+OnHyperbola	CadSurfDoc.h	/^    void OnHyperbola();$/;"	p	class:CadSurfDoc
+OnLines	CadSurfDoc.cpp	/^void CadSurfDoc::OnLines()$/;"	f	class:CadSurfDoc
+OnLines	CadSurfDoc.h	/^    void OnLines();$/;"	p	class:CadSurfDoc
+OnParabola	CadSurfDoc.cpp	/^void CadSurfDoc::OnParabola()$/;"	f	class:CadSurfDoc
+OnParabola	CadSurfDoc.h	/^    void OnParabola();$/;"	p	class:CadSurfDoc
+OnPipe	CadSurfDoc.cpp	/^void CadSurfDoc::OnPipe()$/;"	f	class:CadSurfDoc
+OnPipe	CadSurfDoc.h	/^    void OnPipe();$/;"	p	class:CadSurfDoc
+OnPlane	CadSurfDoc.cpp	/^void CadSurfDoc::OnPlane()$/;"	f	class:CadSurfDoc
+OnPlane	CadSurfDoc.h	/^    void OnPlane();$/;"	p	class:CadSurfDoc
+OnPoints	CadSurfDoc.cpp	/^void CadSurfDoc::OnPoints()$/;"	f	class:CadSurfDoc
+OnPoints	CadSurfDoc.h	/^    void OnPoints();$/;"	p	class:CadSurfDoc
+OnReflect	CadSurfDoc.cpp	/^void CadSurfDoc::OnReflect()$/;"	f	class:CadSurfDoc
+OnReflect	CadSurfDoc.h	/^    void OnReflect();$/;"	p	class:CadSurfDoc
+OnRevsurf	CadSurfDoc.cpp	/^void CadSurfDoc::OnRevsurf()$/;"	f	class:CadSurfDoc
+OnRevsurf	CadSurfDoc.h	/^    void OnRevsurf();$/;"	p	class:CadSurfDoc
+OnRotate	CadSurfDoc.cpp	/^void CadSurfDoc::OnRotate()$/;"	f	class:CadSurfDoc
+OnRotate	CadSurfDoc.h	/^    void OnRotate();$/;"	p	class:CadSurfDoc
+OnRuledsurf	CadSurfDoc.cpp	/^void CadSurfDoc::OnRuledsurf()$/;"	f	class:CadSurfDoc
+OnRuledsurf	CadSurfDoc.h	/^    void OnRuledsurf();$/;"	p	class:CadSurfDoc
+OnScale	CadSurfDoc.cpp	/^void CadSurfDoc::OnScale()$/;"	f	class:CadSurfDoc
+OnScale	CadSurfDoc.h	/^    void OnScale();$/;"	p	class:CadSurfDoc
+OnSphere	CadSurfDoc.cpp	/^void CadSurfDoc::OnSphere()$/;"	f	class:CadSurfDoc
+OnSphere	CadSurfDoc.h	/^    void OnSphere();$/;"	p	class:CadSurfDoc
+OnTorus	CadSurfDoc.cpp	/^void CadSurfDoc::OnTorus()$/;"	f	class:CadSurfDoc
+OnTorus	CadSurfDoc.h	/^    void OnTorus();$/;"	p	class:CadSurfDoc
+OnTranslate	CadSurfDoc.cpp	/^void CadSurfDoc::OnTranslate()$/;"	f	class:CadSurfDoc
+OnTranslate	CadSurfDoc.h	/^    void OnTranslate();$/;"	p	class:CadSurfDoc
+OnUserSurface	CadSurfDoc.cpp	/^void CadSurfDoc::OnUserSurface() $/;"	f	class:CadSurfDoc
+OnUserSurface	CadSurfDoc.h	/^    void OnUserSurface();$/;"	p	class:CadSurfDoc
+PanON	QGLView.h	/^	bool PanON;$/;"	m	class:QGLView
+PanView	QGLView.cpp	/^void QGLView::PanView(QPoint dPoint, QPoint mPoint)$/;"	f	class:QGLView
+PanView	QGLView.h	/^	void PanView(QPoint, QPoint);$/;"	p	class:QGLView
+PointAtPara	Helix.cpp	/^CPoint3D CHelix::PointAtPara(const double& Par)$/;"	f	class:CHelix
+PointAtPara	Helix.h	/^	virtual CPoint3D PointAtPara(const double& para);$/;"	p	class:CHelix
+PointAtPara	UserSurface.cpp	/^CPoint3D CUserSurface::PointAtPara(const double uPar, const double vPar)$/;"	f	class:CUserSurface
+PointAtPara	UserSurface.h	/^	virtual CPoint3D PointAtPara(const double uPar, const double vPar);$/;"	p	class:CUserSurface
+PointToScreen	QGLView.cpp	/^void QGLView::PointToScreen(const CPoint3D& P, int& x, int& y)$/;"	f	class:QGLView
+PointToScreen	QGLView.h	/^	void PointToScreen(const CPoint3D& P, int& x, int& y);$/;"	p	class:QGLView
+ProcessSelection	QGLView.cpp	/^int QGLView::ProcessSelection(const int& xPos, const int& yPos , const int& sensitivity)$/;"	f	class:QGLView
+ProcessSelection	QGLView.h	/^	int  ProcessSelection(const int& x, const int& y, const int& sensitivity = 5);$/;"	p	class:QGLView
+ProcessSweepSelection	QGLView.cpp	/^int QGLView::ProcessSweepSelection(const QRect& swRect, unsigned long int* id)$/;"	f	class:QGLView
+ProcessSweepSelection	QGLView.h	/^	int  ProcessSweepSelection(const QRect& rect, unsigned long int* id);$/;"	p	class:QGLView
+QGLVIEW_H	QGLView.h	/^#define QGLVIEW_H$/;"	d
+QGLView	QGLView.cpp	/^QGLView::QGLView(QGLWidget* w, CGLDisplayContext* ctx) : theWidget(w), theContext(ctx)$/;"	f	class:QGLView
+QGLView	QGLView.h	/^	QGLView(QGLWidget* w, CGLDisplayContext* ctx);$/;"	p	class:QGLView
+QGLView	QGLView.h	/^class QGLView$/;"	c
+QT_NO_COMPAT	.moc/moc_CadSurf.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_CadSurfDoc.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_CadSurfView.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_GridDlg.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_GridSettings.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_MDIWindow.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+QT_NO_COMPAT	.moc/moc_MaterialDlg.cpp	/^#undef QT_NO_COMPAT$/;"	d	file:
+ReSize	QGLView.cpp	/^void QGLView::ReSize( int w, int h )$/;"	f	class:QGLView
+ReSize	QGLView.h	/^	void ReSize( int w, int h );$/;"	p	class:QGLView
+RemoveSelection	GLDisplayContext.cpp	/^void CGLDisplayContext::RemoveSelection(const CGLObject* O)$/;"	f	class:CGLDisplayContext
+RemoveSelection	GLDisplayContext.h	/^	void RemoveSelection(const CGLObject* O);$/;"	p	class:CGLDisplayContext
+Render	GLDisplayContext.cpp	/^void CGLDisplayContext::Render(const GLDisplayMode& mode)$/;"	f	class:CGLDisplayContext
+Render	GLDisplayContext.h	/^	void Render(const GLDisplayMode& = GLWIREFRAME);$/;"	p	class:CGLDisplayContext
+RenderScene	QGLView.cpp	/^void QGLView::RenderScene(GLenum \/*mode*\/)$/;"	f	class:QGLView
+RenderScene	QGLView.h	/^	void RenderScene(GLenum mode);$/;"	p	class:QGLView
+ResetView	QGLView.cpp	/^void QGLView::ResetView()$/;"	f	class:QGLView
+ResetView	QGLView.h	/^	void ResetView();$/;"	p	class:QGLView
+Reverse	Helix.cpp	/^void CHelix::Reverse()$/;"	f	class:CHelix
+Reverse	Helix.h	/^	virtual void Reverse();$/;"	p	class:CHelix
+RightView	QGLView.cpp	/^void QGLView::RightView()$/;"	f	class:QGLView
+RightView	QGLView.h	/^	void RightView();$/;"	p	class:QGLView
+RotON	QGLView.h	/^	bool RotON;$/;"	m	class:QGLView
+Rotate	Helix.cpp	/^void CHelix::Rotate(const COneAxis&, double)$/;"	f	class:CHelix
+Rotate	Helix.h	/^	virtual void Rotate(const COneAxis&, double);$/;"	p	class:CHelix
+Rotate	UserSurface.cpp	/^void CUserSurface::Rotate(const COneAxis&, double)$/;"	f	class:CUserSurface
+Rotate	UserSurface.h	/^	virtual void Rotate(const COneAxis&, double);$/;"	p	class:CUserSurface
+RotateView	QGLView.cpp	/^void QGLView::RotateView(QPoint dPoint, QPoint mPoint)$/;"	f	class:QGLView
+RotateView	QGLView.h	/^	void RotateView(QPoint, QPoint);$/;"	p	class:QGLView
+Scale	Helix.cpp	/^void CHelix::Scale(const CPoint3D&, double)$/;"	f	class:CHelix
+Scale	Helix.h	/^	virtual void Scale(const CPoint3D&, double);$/;"	p	class:CHelix
+Scale	UserSurface.cpp	/^void CUserSurface::Scale(const CPoint3D&, double)$/;"	f	class:CUserSurface
+Scale	UserSurface.h	/^	virtual void Scale(const CPoint3D&, double);$/;"	p	class:CUserSurface
+ScreenToPoint	QGLView.cpp	/^void QGLView::ScreenToPoint(const int& x, const int& y, CPoint3D&  P)$/;"	f	class:QGLView
+ScreenToPoint	QGLView.h	/^	void ScreenToPoint(const int& x, const int& y, CPoint3D&  P);$/;"	p	class:QGLView
+Select	GLDisplayContext.cpp	/^bool CGLDisplayContext::Select(QGLView* aView, const int& x, const int& y)$/;"	f	class:CGLDisplayContext
+Select	GLDisplayContext.h	/^	bool Select(QGLView* aView, const int& x, const int& y);$/;"	p	class:CGLDisplayContext
+Select	QGLView.cpp	/^void QGLView::Select(const int &x, const int &y)$/;"	f	class:QGLView
+Select	QGLView.h	/^	void Select(const int& x, const int& y);$/;"	p	class:QGLView
+SetAntiAliasing	QGLView.cpp	/^void QGLView::SetAntiAliasing(const bool& mode)$/;"	f	class:QGLView
+SetAntiAliasing	QGLView.h	/^	void SetAntiAliasing(const bool& mode);$/;"	p	class:QGLView
+SetBackgroundColor	QGLView.cpp	/^void QGLView::SetBackgroundColor(GLfloat r, GLfloat g, GLfloat b)$/;"	f	class:QGLView
+SetBackgroundColor	QGLView.h	/^	void SetBackgroundColor(GLfloat, GLfloat, GLfloat);$/;"	p	class:QGLView
+SetDisplayMode	CadSurfView.cpp	/^void CadSurfView::SetDisplayMode(const GLDisplayMode& aMode)$/;"	f	class:CadSurfView
+SetDisplayMode	CadSurfView.h	/^	void SetDisplayMode(const GLDisplayMode& aMode);$/;"	p	class:CadSurfView
+SetDisplayMode	QGLView.cpp	/^void QGLView::SetDisplayMode(const GLDisplayMode& aMode)$/;"	f	class:QGLView
+SetDisplayMode	QGLView.h	/^	void SetDisplayMode(const GLDisplayMode& aMode);$/;"	p	class:QGLView
+SetGridOn	QGLView.cpp	/^void QGLView::SetGridOn(const bool& mode)$/;"	f	class:QGLView
+SetGridOn	QGLView.h	/^	void SetGridOn(const bool& mode);$/;"	p	class:QGLView
+SetGridPara	QGLView.cpp	/^void QGLView::SetGridPara(const CPlane& plane, const double& size, const double& step)$/;"	f	class:QGLView
+SetGridPara	QGLView.h	/^	void SetGridPara(const CPlane& plane, const double& size, const double& step);$/;"	p	class:QGLView
+SetSensitivity	GLDisplayContext.h	/^	void SetSensitivity(const int& s) { mouseSensitivity = s; }$/;"	f	class:CGLDisplayContext
+Shaded	CadSurf.h	/^	QAction *Shaded;$/;"	m	class:CadSurfApp
+StopPanning	QGLView.h	/^	void StopPanning(){ PanON = false; }$/;"	f	class:QGLView
+StopRotation	QGLView.h	/^	void StopRotation(){ RotON = false; }$/;"	f	class:QGLView
+StopZooming	QGLView.h	/^	void StopZooming(){ ZoomON = false; }$/;"	f	class:QGLView
+SweepSelect	GLDisplayContext.cpp	/^bool CGLDisplayContext::SweepSelect(QGLView* aView, const QRect& swRect)$/;"	f	class:CGLDisplayContext
+SweepSelect	GLDisplayContext.h	/^	bool SweepSelect(QGLView* aView, const QRect& swRect);$/;"	p	class:CGLDisplayContext
+SweepSelect	QGLView.cpp	/^void QGLView::SweepSelect(const QRect& swRect)$/;"	f	class:QGLView
+SweepSelect	QGLView.h	/^	void SweepSelect(const QRect& swRect);$/;"	p	class:QGLView
+TopView	QGLView.cpp	/^void QGLView::TopView()$/;"	f	class:QGLView
+TopView	QGLView.h	/^	void TopView();$/;"	p	class:QGLView
+Translate	Helix.cpp	/^void CHelix::Translate(const CPoint3D&, const CPoint3D&)$/;"	f	class:CHelix
+Translate	Helix.cpp	/^void CHelix::Translate(const CVector3D&)$/;"	f	class:CHelix
+Translate	Helix.cpp	/^void CHelix::Translate(double dx, double dy, double dz)$/;"	f	class:CHelix
+Translate	Helix.h	/^	virtual void Translate(const CPoint3D&, const CPoint3D&);$/;"	p	class:CHelix
+Translate	Helix.h	/^	virtual void Translate(const CVector3D&);$/;"	p	class:CHelix
+Translate	Helix.h	/^	virtual void Translate(double dx, double dy, double dz);$/;"	p	class:CHelix
+Translate	UserSurface.cpp	/^void CUserSurface::Translate(const CPoint3D&, const CPoint3D&)$/;"	f	class:CUserSurface
+Translate	UserSurface.cpp	/^void CUserSurface::Translate(const CVector3D&)$/;"	f	class:CUserSurface
+Translate	UserSurface.cpp	/^void CUserSurface::Translate(double dx, double dy, double dz)$/;"	f	class:CUserSurface
+Translate	UserSurface.h	/^	virtual void Translate(const CPoint3D&, const CPoint3D&);$/;"	p	class:CUserSurface
+Translate	UserSurface.h	/^	virtual void Translate(const CVector3D&);$/;"	p	class:CUserSurface
+Translate	UserSurface.h	/^	virtual void Translate(double dx, double dy, double dz);$/;"	p	class:CUserSurface
+Type	Helix.cpp	/^CurveType CHelix::Type() const$/;"	f	class:CHelix
+Type	Helix.h	/^	CurveType Type() const;$/;"	p	class:CHelix
+Wireframe	CadSurf.h	/^	QAction *Wireframe;$/;"	m	class:CadSurfApp
+ZoomON	QGLView.h	/^	bool ZoomON;$/;"	m	class:QGLView
+ZoomView	QGLView.cpp	/^void QGLView::ZoomView(QPoint dPoint, QPoint mPoint)$/;"	f	class:QGLView
+ZoomView	QGLView.h	/^	void ZoomView(QPoint, QPoint);$/;"	p	class:QGLView
+ZoomWindow	QGLView.cpp	/^void QGLView::ZoomWindow(QRect zcRect)$/;"	f	class:QGLView
+ZoomWindow	QGLView.h	/^	void ZoomWindow(QRect zcRect);$/;"	p	class:QGLView
+_GLDISPLAYCONTEXT_H__D04FD53F_4852_4D6C_957A_44E8AE0C54DB__INCLUDED_	GLDisplayContext.h	/^#define _GLDISPLAYCONTEXT_H__D04FD53F_4852_4D6C_957A_44E8AE0C54DB__INCLUDED_$/;"	d
+_HELIX_H	Helix.h	/^#define _HELIX_H$/;"	d
+addView	CadSurfDoc.cpp	/^void CadSurfDoc::addView(CadSurfView *view)$/;"	f	class:CadSurfDoc
+addView	CadSurfDoc.h	/^    void addView(CadSurfView *view);$/;"	p	class:CadSurfDoc
+ambientLight	QGLView.h	/^	GLfloat  ambientLight[4];$/;"	m	class:QGLView
+antialiased	CadSurfView.h	/^	bool antialiased;$/;"	m	class:CadSurfView
+backColor	CadSurf.h	/^	QAction *backColor;$/;"	m	class:CadSurfApp
+buttonCancel	.ui/MaterialDlg.h	/^    QPushButton* buttonCancel;$/;"	m	class:MatlEditor
+buttonGroup1	.ui/GridSettings.h	/^    QButtonGroup* buttonGroup1;$/;"	m	class:GridSettings
+buttonGroup1Layout	.ui/GridSettings.h	/^    QGridLayout* buttonGroup1Layout;$/;"	m	class:GridSettings
+buttonGroup2	.ui/GridSettings.h	/^    QButtonGroup* buttonGroup2;$/;"	m	class:GridSettings
+buttonGroup2Layout	.ui/GridSettings.h	/^    QGridLayout* buttonGroup2Layout;$/;"	m	class:GridSettings
+buttonHelp	.ui/MaterialDlg.h	/^    QPushButton* buttonHelp;$/;"	m	class:MatlEditor
+buttonOk	.ui/MaterialDlg.h	/^    QPushButton* buttonOk;$/;"	m	class:MatlEditor
+cViewer	CadSurf.h	/^	QLabel *cViewer;$/;"	m	class:CadSurfApp
+canCloseFrame	CadSurfDoc.cpp	/^bool CadSurfDoc::canCloseFrame(CadSurfView* pFrame)$/;"	f	class:CadSurfDoc
+canCloseFrame	CadSurfDoc.h	/^    bool canCloseFrame(CadSurfView* pFrame);$/;"	p	class:CadSurfDoc
+changedViewList	CadSurfDoc.cpp	/^void CadSurfDoc::changedViewList(){	$/;"	f	class:CadSurfDoc
+changedViewList	CadSurfDoc.h	/^    void changedViewList();$/;"	p	class:CadSurfDoc
+className	.moc/moc_CadSurf.cpp	/^const char *CadSurfApp::className() const$/;"	f	class:CadSurfApp
+className	.moc/moc_CadSurfDoc.cpp	/^const char *CadSurfDoc::className() const$/;"	f	class:CadSurfDoc
+className	.moc/moc_CadSurfView.cpp	/^const char *CadSurfView::className() const$/;"	f	class:CadSurfView
+className	.moc/moc_GridDlg.cpp	/^const char *GridDlg::className() const$/;"	f	class:GridDlg
+className	.moc/moc_GridSettings.cpp	/^const char *GridSettings::className() const$/;"	f	class:GridSettings
+className	.moc/moc_MDIWindow.cpp	/^const char *MDIWindow::className() const$/;"	f	class:MDIWindow
+className	.moc/moc_MaterialDlg.cpp	/^const char *MatlEditor::className() const$/;"	f	class:MatlEditor
+closeDocument	CadSurfDoc.cpp	/^void CadSurfDoc::closeDocument()$/;"	f	class:CadSurfDoc
+closeDocument	CadSurfDoc.h	/^    void closeDocument();$/;"	p	class:CadSurfDoc
+closeEvent	CadSurfView.cpp	/^void CadSurfView::closeEvent(QCloseEvent*)$/;"	f	class:CadSurfView
+closeEvent	CadSurfView.h	/^	virtual void closeEvent(QCloseEvent*);$/;"	p	class:CadSurfView
+coordViewer	CadSurfView.h	/^	QLabel *coordViewer;$/;"	m	class:CadSurfView
+createClient	CadSurf.cpp	/^void CadSurfApp::createClient(CadSurfDoc* doc)$/;"	f	class:CadSurfApp
+createClient	CadSurf.h	/^	void createClient(CadSurfDoc* doc);$/;"	p	class:CadSurfApp
+dContext	CadSurfDoc.h	/^    CGLDisplayContext* dContext;$/;"	m	class:CadSurfDoc
+dShaded	CadSurfView.h	/^	bool dShaded;$/;"	m	class:CadSurfView
+deleteContents	CadSurfDoc.cpp	/^void CadSurfDoc::deleteContents()$/;"	f	class:CadSurfDoc
+deleteContents	CadSurfDoc.h	/^    void deleteContents();$/;"	p	class:CadSurfDoc
+diffuseLight	QGLView.h	/^	GLfloat  diffuseLight[4];$/;"	m	class:QGLView
+display	GLDisplayContext.h	/^	CListOfCGLObject* display;$/;"	m	class:CGLDisplayContext
+displayMode	QGLView.h	/^	GLDisplayMode displayMode;$/;"	m	class:QGLView
+doc	CadSurfView.h	/^	CadSurfDoc *doc;$/;"	m	class:CadSurfView
+dt	CadSurfView.h	/^    QTime tm; QDate dt;$/;"	m	class:CadSurfView
+dtStr	CadSurfView.h	/^    QString dtStr, tmStr;$/;"	m	class:CadSurfView
+editCopy	CadSurf.h	/^	QAction *editCopy;$/;"	m	class:CadSurfApp
+editCut	CadSurf.h	/^	QAction *editCut;$/;"	m	class:CadSurfApp
+editDeleteAll	CadSurf.h	/^	QAction *editDeleteAll;$/;"	m	class:CadSurfApp
+editDeleteSelected	CadSurf.h	/^	QAction *editDeleteSelected;$/;"	m	class:CadSurfApp
+editPaste	CadSurf.h	/^	QAction *editPaste;$/;"	m	class:CadSurfApp
+editUndo	CadSurf.h	/^	QAction *editUndo;$/;"	m	class:CadSurfApp
+erase	GLDisplayContext.h	/^	CListOfCGLObject* erase;$/;"	m	class:CGLDisplayContext
+eventFilter	CadSurf.cpp	/^bool CadSurfApp::eventFilter(QObject* object, QEvent* event)$/;"	f	class:CadSurfApp
+eventFilter	CadSurf.h	/^	virtual bool eventFilter(QObject* object, QEvent* event);$/;"	p	class:CadSurfApp
+fileClose	CadSurf.h	/^	QAction *fileClose;$/;"	m	class:CadSurfApp
+fileNew	CadSurf.h	/^	QAction *fileNew;$/;"	m	class:CadSurfApp
+fileOpen	CadSurf.h	/^	QAction *fileOpen;$/;"	m	class:CadSurfApp
+filePrint	CadSurf.h	/^	QAction *filePrint;$/;"	m	class:CadSurfApp
+fileQuit	CadSurf.h	/^	QAction *fileQuit;$/;"	m	class:CadSurfApp
+fileSave	CadSurf.h	/^	QAction *fileSave;$/;"	m	class:CadSurfApp
+fileSaveAs	CadSurf.h	/^	QAction *fileSaveAs;$/;"	m	class:CadSurfApp
+fileToolbar	CadSurf.h	/^	QToolBar *fileToolbar;$/;"	m	class:CadSurfApp
+firstView	CadSurfDoc.h	/^    CadSurfView* firstView(){ return pViewList->first(); };$/;"	f	class:CadSurfDoc
+getDocument	CadSurfView.cpp	/^CadSurfDoc *CadSurfView::getDocument() const$/;"	f	class:CadSurfView
+getDocument	CadSurfView.h	/^    CadSurfDoc *getDocument() const;$/;"	p	class:CadSurfView
+gridOn	CadSurfView.h	/^	bool gridOn;$/;"	m	class:CadSurfView
+gridOn	QGLView.h	/^	bool gridOn;$/;"	m	class:QGLView
+gridPara	CadSurf.h	/^	QAction *gridPara;$/;"	m	class:CadSurfApp
+gridToggle	CadSurf.h	/^	QAction *gridToggle;$/;"	m	class:CadSurfApp
+groupBox11	.ui/MaterialDlg.h	/^    QGroupBox* groupBox11;$/;"	m	class:MatlEditor
+groupBox11Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox11Layout;$/;"	m	class:MatlEditor
+groupBox1_2	.ui/MaterialDlg.h	/^    QGroupBox* groupBox1_2;$/;"	m	class:MatlEditor
+groupBox1_2Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox1_2Layout;$/;"	m	class:MatlEditor
+groupBox3_2_2	.ui/MaterialDlg.h	/^    QGroupBox* groupBox3_2_2;$/;"	m	class:MatlEditor
+groupBox3_2_2Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox3_2_2Layout;$/;"	m	class:MatlEditor
+groupBox3_3_2	.ui/MaterialDlg.h	/^    QGroupBox* groupBox3_3_2;$/;"	m	class:MatlEditor
+groupBox3_3_2Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox3_3_2Layout;$/;"	m	class:MatlEditor
+groupBox3_3_2_2	.ui/MaterialDlg.h	/^    QGroupBox* groupBox3_3_2_2;$/;"	m	class:MatlEditor
+groupBox3_3_2_2Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox3_3_2_2Layout;$/;"	m	class:MatlEditor
+groupBox3_4	.ui/MaterialDlg.h	/^    QGroupBox* groupBox3_4;$/;"	m	class:MatlEditor
+groupBox3_4Layout	.ui/MaterialDlg.h	/^    QGridLayout* groupBox3_4Layout;$/;"	m	class:MatlEditor
+hb	CadSurf.h	/^	QHBox* hb;$/;"	m	class:CadSurfApp
+helpAboutApp	CadSurf.h	/^	QAction *helpAboutApp;$/;"	m	class:CadSurfApp
+image0	.ui/MaterialDlg.h	/^    QPixmap image0;$/;"	m	class:MatlEditor
+image0_data	.ui/MaterialDlg.cpp	/^static const unsigned char image0_data[] = { $/;"	v	file:
+image1	.ui/MaterialDlg.h	/^    QPixmap image1;$/;"	m	class:MatlEditor
+image10	.ui/MaterialDlg.h	/^    QPixmap image10;$/;"	m	class:MatlEditor
+image10_data	.ui/MaterialDlg.cpp	/^static const char* const image10_data[] = { $/;"	v	file:
+image11	.ui/MaterialDlg.h	/^    QPixmap image11;$/;"	m	class:MatlEditor
+image11_data	.ui/MaterialDlg.cpp	/^static const char* const image11_data[] = { $/;"	v	file:
+image12	.ui/MaterialDlg.h	/^    QPixmap image12;$/;"	m	class:MatlEditor
+image12_data	.ui/MaterialDlg.cpp	/^static const char* const image12_data[] = { $/;"	v	file:
+image13	.ui/MaterialDlg.h	/^    QPixmap image13;$/;"	m	class:MatlEditor
+image13_data	.ui/MaterialDlg.cpp	/^static const char* const image13_data[] = { $/;"	v	file:
+image1_data	.ui/MaterialDlg.cpp	/^static const unsigned char image1_data[] = { $/;"	v	file:
+image2	.ui/MaterialDlg.h	/^    QPixmap image2;$/;"	m	class:MatlEditor
+image2_data	.ui/MaterialDlg.cpp	/^static const unsigned char image2_data[] = { $/;"	v	file:
+image3	.ui/MaterialDlg.h	/^    QPixmap image3;$/;"	m	class:MatlEditor
+image3_data	.ui/MaterialDlg.cpp	/^static const unsigned char image3_data[] = { $/;"	v	file:
+image4	.ui/MaterialDlg.h	/^    QPixmap image4;$/;"	m	class:MatlEditor
+image4_data	.ui/MaterialDlg.cpp	/^static const char* const image4_data[] = { $/;"	v	file:
+image5	.ui/MaterialDlg.h	/^    QPixmap image5;$/;"	m	class:MatlEditor
+image5_data	.ui/MaterialDlg.cpp	/^static const char* const image5_data[] = { $/;"	v	file:
+image6	.ui/MaterialDlg.h	/^    QPixmap image6;$/;"	m	class:MatlEditor
+image6_data	.ui/MaterialDlg.cpp	/^static const char* const image6_data[] = { $/;"	v	file:
+image7	.ui/MaterialDlg.h	/^    QPixmap image7;$/;"	m	class:MatlEditor
+image7_data	.ui/MaterialDlg.cpp	/^static const char* const image7_data[] = { $/;"	v	file:
+image8	.ui/MaterialDlg.h	/^    QPixmap image8;$/;"	m	class:MatlEditor
+image8_data	.ui/MaterialDlg.cpp	/^static const char* const image8_data[] = { $/;"	v	file:
+image9	.ui/MaterialDlg.h	/^    QPixmap image9;$/;"	m	class:MatlEditor
+image9_data	.ui/MaterialDlg.cpp	/^static const char* const image9_data[] = { $/;"	v	file:
+init	.ui/MaterialDlg.h	/^    virtual void init();$/;"	p	class:MatlEditor
+init	MaterialDlg.ui.h	/^void MatlEditor::init()$/;"	f	class:MatlEditor
+initActions	CadSurf.cpp	/^void CadSurfApp::initActions()$/;"	f	class:CadSurfApp
+initActions	CadSurf.h	/^	void initActions();$/;"	p	class:CadSurfApp
+initMenuBar	CadSurf.cpp	/^void CadSurfApp::initMenuBar()$/;"	f	class:CadSurfApp
+initMenuBar	CadSurf.h	/^	void initMenuBar();$/;"	p	class:CadSurfApp
+initStatusBar	CadSurf.cpp	/^void CadSurfApp::initStatusBar()$/;"	f	class:CadSurfApp
+initStatusBar	CadSurf.h	/^	void initStatusBar();$/;"	p	class:CadSurfApp
+initToolBar	CadSurf.cpp	/^void CadSurfApp::initToolBar()$/;"	f	class:CadSurfApp
+initToolBar	CadSurf.h	/^	void initToolBar();$/;"	p	class:CadSurfApp
+initView	CadSurf.cpp	/^void CadSurfApp::initView()$/;"	f	class:CadSurfApp
+initView	CadSurf.h	/^	void initView();$/;"	p	class:CadSurfApp
+initializeGL	CadSurfView.cpp	/^void CadSurfView::initializeGL()$/;"	f	class:CadSurfView
+initializeGL	CadSurfView.h	/^	virtual void initializeGL();$/;"	p	class:CadSurfView
+isLastView	CadSurfDoc.cpp	/^bool CadSurfDoc::isLastView() {$/;"	f	class:CadSurfDoc
+isLastView	CadSurfDoc.h	/^    bool isLastView();$/;"	p	class:CadSurfDoc
+isModified	CadSurfDoc.h	/^    bool isModified(){ return modified; };$/;"	f	class:CadSurfDoc
+itsFirstParameter	Helix.h	/^	double itsFirstParameter;$/;"	m	class:CHelix
+itsLastParameter	Helix.h	/^	double itsLastParameter;$/;"	m	class:CHelix
+itsLead	Helix.h	/^	double itsLead;$/;"	m	class:CHelix
+lPoint	CadSurfView.h	/^	QPoint  lPoint;$/;"	m	class:CadSurfView
+lPoint	QGLView.h	/^	QPoint  lPoint;$/;"	m	class:QGLView
+languageChange	.ui/GridSettings.cpp	/^void GridSettings::languageChange()$/;"	f	class:GridSettings
+languageChange	.ui/GridSettings.h	/^    virtual void languageChange();$/;"	p	class:GridSettings
+languageChange	.ui/MaterialDlg.cpp	/^void MatlEditor::languageChange()$/;"	f	class:MatlEditor
+languageChange	.ui/MaterialDlg.h	/^    virtual void languageChange();$/;"	p	class:MatlEditor
+layout11	.ui/GridSettings.h	/^    QHBoxLayout* layout11;$/;"	m	class:GridSettings
+layout11	.ui/MaterialDlg.h	/^    QHBoxLayout* layout11;$/;"	m	class:MatlEditor
+layout13	.ui/MaterialDlg.h	/^    QHBoxLayout* layout13;$/;"	m	class:MatlEditor
+layout17	.ui/MaterialDlg.h	/^    QHBoxLayout* layout17;$/;"	m	class:MatlEditor
+layout18	.ui/MaterialDlg.h	/^    QHBoxLayout* layout18;$/;"	m	class:MatlEditor
+layout20	.ui/MaterialDlg.h	/^    QHBoxLayout* layout20;$/;"	m	class:MatlEditor
+layout41	.ui/MaterialDlg.h	/^    QHBoxLayout* layout41;$/;"	m	class:MatlEditor
+layout42	.ui/MaterialDlg.h	/^    QHBoxLayout* layout42;$/;"	m	class:MatlEditor
+layout42_2	.ui/MaterialDlg.h	/^    QHBoxLayout* layout42_2;$/;"	m	class:MatlEditor
+layout43	.ui/MaterialDlg.h	/^    QVBoxLayout* layout43;$/;"	m	class:MatlEditor
+layout6	.ui/MaterialDlg.h	/^    QHBoxLayout* layout6;$/;"	m	class:MatlEditor
+layout7	.ui/MaterialDlg.h	/^    QHBoxLayout* layout7;$/;"	m	class:MatlEditor
+layout8	.ui/GridSettings.h	/^    QGridLayout* layout8;$/;"	m	class:GridSettings
+layout8	.ui/MaterialDlg.h	/^    QHBoxLayout* layout8;$/;"	m	class:MatlEditor
+layout9	.ui/GridSettings.h	/^    QGridLayout* layout9;$/;"	m	class:GridSettings
+ldown	CadSurfView.h	/^	bool ldown;$/;"	m	class:CadSurfView
+ldown	QGLView.h	/^	bool ldown;$/;"	m	class:QGLView
+lineDashed	CadSurf.h	/^	QAction *lineDashed;$/;"	m	class:CadSurfApp
+lineDotDashed	CadSurf.h	/^	QAction *lineDotDashed;$/;"	m	class:CadSurfApp
+lineDotted	CadSurf.h	/^	QAction *lineDotted;$/;"	m	class:CadSurfApp
+lineSolid	CadSurf.h	/^	QAction *lineSolid;$/;"	m	class:CadSurfApp
+mPoint	CadSurfView.h	/^	QPoint  mPoint;$/;"	m	class:CadSurfView
+mPoint	QGLView.h	/^	QPoint  mPoint;$/;"	m	class:QGLView
+m_antialias	QGLView.h	/^	bool m_antialias;$/;"	m	class:QGLView
+m_bkBlue	QGLView.h	/^	GLfloat m_bkBlue;$/;"	m	class:QGLView
+m_bkGreen	QGLView.h	/^	GLfloat m_bkGreen;$/;"	m	class:QGLView
+m_bkRed	QGLView.h	/^	GLfloat m_bkRed;$/;"	m	class:QGLView
+m_filename	CadSurfDoc.h	/^    QString m_filename;$/;"	m	class:CadSurfDoc
+m_title	CadSurfDoc.h	/^    QString m_title;$/;"	m	class:CadSurfDoc
+main	main.cpp	/^int main(int argc, char *argv[])$/;"	f
+mdown	CadSurfView.h	/^	bool mdown;$/;"	m	class:CadSurfView
+mdown	QGLView.h	/^	bool mdown;$/;"	m	class:QGLView
+metaObj	.moc/moc_CadSurf.cpp	/^QMetaObject *CadSurfApp::metaObj = 0;$/;"	m	class:CadSurfApp	file:
+metaObj	.moc/moc_CadSurfDoc.cpp	/^QMetaObject *CadSurfDoc::metaObj = 0;$/;"	m	class:CadSurfDoc	file:
+metaObj	.moc/moc_CadSurfView.cpp	/^QMetaObject *CadSurfView::metaObj = 0;$/;"	m	class:CadSurfView	file:
+metaObj	.moc/moc_GridDlg.cpp	/^QMetaObject *GridDlg::metaObj = 0;$/;"	m	class:GridDlg	file:
+metaObj	.moc/moc_GridSettings.cpp	/^QMetaObject *GridSettings::metaObj = 0;$/;"	m	class:GridSettings	file:
+metaObj	.moc/moc_MDIWindow.cpp	/^QMetaObject *MDIWindow::metaObj = 0;$/;"	m	class:MDIWindow	file:
+metaObj	.moc/moc_MaterialDlg.cpp	/^QMetaObject *MatlEditor::metaObj = 0;$/;"	m	class:MatlEditor	file:
+mkBSpline	CadSurf.h	/^	QAction *mkBSpline;$/;"	m	class:CadSurfApp
+mkBezier	CadSurf.h	/^	QAction *mkBezier;$/;"	m	class:CadSurfApp
+mkCircle	CadSurf.h	/^	QAction *mkCircle;$/;"	m	class:CadSurfApp
+mkCone	CadSurf.h	/^	QAction *mkCone;$/;"	m	class:CadSurfApp
+mkCylinder	CadSurf.h	/^	QAction *mkCylinder;$/;"	m	class:CadSurfApp
+mkEllipse	CadSurf.h	/^	QAction *mkEllipse;$/;"	m	class:CadSurfApp
+mkExtruded	CadSurf.h	/^	QAction *mkExtruded;$/;"	m	class:CadSurfApp
+mkHyperbola	CadSurf.h	/^	QAction *mkHyperbola;$/;"	m	class:CadSurfApp
+mkLine	CadSurf.h	/^	QAction *mkLine;$/;"	m	class:CadSurfApp
+mkParabola	CadSurf.h	/^	QAction *mkParabola;$/;"	m	class:CadSurfApp
+mkPipe	CadSurf.h	/^	QAction *mkPipe;$/;"	m	class:CadSurfApp
+mkPlane	CadSurf.h	/^	QAction *mkPlane;$/;"	m	class:CadSurfApp
+mkPoint	CadSurf.h	/^	QAction *mkPoint;$/;"	m	class:CadSurfApp
+mkReflect	CadSurf.h	/^	QAction *mkReflect;$/;"	m	class:CadSurfApp
+mkRevolved	CadSurf.h	/^	QAction *mkRevolved;$/;"	m	class:CadSurfApp
+mkRotate	CadSurf.h	/^	QAction *mkRotate;$/;"	m	class:CadSurfApp
+mkRuled	CadSurf.h	/^	QAction *mkRuled;$/;"	m	class:CadSurfApp
+mkScale	CadSurf.h	/^	QAction *mkScale;$/;"	m	class:CadSurfApp
+mkSphere	CadSurf.h	/^	QAction *mkSphere;$/;"	m	class:CadSurfApp
+mkTorus	CadSurf.h	/^	QAction *mkTorus;$/;"	m	class:CadSurfApp
+mkTranslate	CadSurf.h	/^	QAction *mkTranslate;$/;"	m	class:CadSurfApp
+mkUserSurf	CadSurf.h	/^	QAction *mkUserSurf;$/;"	m	class:CadSurfApp
+modified	CadSurfDoc.h	/^    bool modified;$/;"	m	class:CadSurfDoc
+mouseMoveEvent	CadSurfView.cpp	/^void CadSurfView::mouseMoveEvent( QMouseEvent *e)$/;"	f	class:CadSurfView
+mouseMoveEvent	CadSurfView.h	/^  	void mouseMoveEvent( QMouseEvent *);$/;"	p	class:CadSurfView
+mousePressEvent	CadSurfView.cpp	/^void CadSurfView::mousePressEvent( QMouseEvent *e)$/;"	f	class:CadSurfView
+mousePressEvent	CadSurfView.h	/^	void mousePressEvent( QMouseEvent *);$/;"	p	class:CadSurfView
+mouseReleaseEvent	CadSurfView.cpp	/^void CadSurfView::mouseReleaseEvent( QMouseEvent *e)$/;"	f	class:CadSurfView
+mouseReleaseEvent	CadSurfView.h	/^  	void mouseReleaseEvent( QMouseEvent *);$/;"	p	class:CadSurfView
+mouseSensitivity	GLDisplayContext.h	/^	int mouseSensitivity; \/\/for selection;$/;"	m	class:CGLDisplayContext
+myCamera	QGLView.h	/^	CGLCamera* myCamera;$/;"	m	class:QGLView
+myGrid	QGLView.h	/^	CGLGrid* myGrid;	$/;"	m	class:QGLView
+myTrihedron	QGLView.h	/^	CGLTrihedron* myTrihedron;$/;"	m	class:QGLView
+myView	CadSurfView.h	/^	QGLView* myView;$/;"	m	class:CadSurfView
+myXmax	CadSurfView.h	/^    int     myXmax;$/;"	m	class:CadSurfView
+myXmax	QGLView.h	/^	int     myXmax;$/;"	m	class:QGLView
+myXmin	CadSurfView.h	/^	int     myXmin;$/;"	m	class:CadSurfView
+myXmin	QGLView.h	/^	int     myXmin;$/;"	m	class:QGLView
+myYmax	CadSurfView.h	/^    int     myYmax;$/;"	m	class:CadSurfView
+myYmax	QGLView.h	/^	int     myYmax;$/;"	m	class:QGLView
+myYmin	CadSurfView.h	/^    int     myYmin;$/;"	m	class:CadSurfView
+myYmin	QGLView.h	/^	int     myYmin;$/;"	m	class:QGLView
+nRange	QGLView.h	/^	GLdouble nRange;$/;"	m	class:QGLView
+newDocument	CadSurfDoc.cpp	/^bool CadSurfDoc::newDocument()$/;"	f	class:CadSurfDoc
+newDocument	CadSurfDoc.h	/^    bool newDocument();$/;"	p	class:CadSurfDoc
+objToolbar	CadSurf.h	/^	QToolBar *objToolbar;$/;"	m	class:CadSurfApp
+openDocument	CadSurfDoc.cpp	/^bool CadSurfDoc::openDocument(const QString &filename, const char * \/* format =0*\/)$/;"	f	class:CadSurfDoc
+openDocument	CadSurfDoc.h	/^    bool openDocument(const QString &filename, const char *format=0);$/;"	p	class:CadSurfDoc
+openDocumentFile	CadSurf.cpp	/^void CadSurfApp::openDocumentFile(const char* file)$/;"	f	class:CadSurfApp
+openDocumentFile	CadSurf.h	/^	void openDocumentFile(const char *file=0);$/;"	p	class:CadSurfApp
+pColor	CadSurf.h	/^	QAction *pColor;$/;"	m	class:CadSurfApp
+pDisplayMenu	CadSurf.h	/^	QPopupMenu *pDisplayMenu;$/;"	m	class:CadSurfApp
+pDocList	CadSurf.h	/^	QList<CadSurfDoc> *pDocList;$/;"	m	class:CadSurfApp
+pEditMenu	CadSurf.h	/^	QPopupMenu *pEditMenu;$/;"	m	class:CadSurfApp
+pFileMenu	CadSurf.h	/^	QPopupMenu *pFileMenu;$/;"	m	class:CadSurfApp
+pGridMenu	CadSurf.h	/^	QPopupMenu *pGridMenu;$/;"	m	class:CadSurfApp
+pHelpMenu	CadSurf.h	/^	QPopupMenu *pHelpMenu;$/;"	m	class:CadSurfApp
+pLineStyleMenu	CadSurf.h	/^	QPopupMenu *pLineStyleMenu;$/;"	m	class:CadSurfApp
+pMaterial	CadSurf.h	/^	QAction *pMaterial;$/;"	m	class:CadSurfApp
+pPreferenceMenu	CadSurf.h	/^	QPopupMenu *pPreferenceMenu;$/;"	m	class:CadSurfApp
+pViewList	CadSurfDoc.h	/^    QList<CadSurfView> *pViewList;	$/;"	m	class:CadSurfDoc
+pViewMenu	CadSurf.h	/^	QPopupMenu *pViewMenu;$/;"	m	class:CadSurfApp
+pWindowMenu	CadSurf.h	/^	QPopupMenu *pWindowMenu;$/;"	m	class:CadSurfApp
+pWorkspace	CadSurf.h	/^	QWorkspace *pWorkspace;$/;"	m	class:CadSurfApp
+paintGL	CadSurfView.cpp	/^void CadSurfView::paintGL()$/;"	f	class:CadSurfView
+paintGL	CadSurfView.h	/^	virtual void paintGL();$/;"	p	class:CadSurfView
+pathName	CadSurfDoc.cpp	/^const QString& CadSurfDoc::pathName() const$/;"	f	class:CadSurfDoc
+pathName	CadSurfDoc.h	/^    const QString& pathName() const;$/;"	p	class:CadSurfDoc
+print	CadSurfView.cpp	/^void CadSurfView::print(QPrinter *pPrinter)$/;"	f	class:CadSurfView
+print	CadSurfView.h	/^    void print(QPrinter *pPrinter);$/;"	p	class:CadSurfView
+printer	CadSurf.h	/^	QPrinter *printer;$/;"	m	class:CadSurfApp
+ptrDoc	GLDisplayContext.h	/^	CadSurfDoc* ptrDoc;$/;"	m	class:CGLDisplayContext
+pushButton1	.ui/GridSettings.h	/^    QPushButton* pushButton1;$/;"	m	class:GridSettings
+pushButton2	.ui/GridSettings.h	/^    QPushButton* pushButton2;$/;"	m	class:GridSettings
+pushButtonBrass	.ui/MaterialDlg.h	/^    QPushButton* pushButtonBrass;$/;"	m	class:MatlEditor
+pushButtonBronze	.ui/MaterialDlg.h	/^    QPushButton* pushButtonBronze;$/;"	m	class:MatlEditor
+pushButtonCopper	.ui/MaterialDlg.h	/^    QPushButton* pushButtonCopper;$/;"	m	class:MatlEditor
+pushButtonDefault	.ui/MaterialDlg.h	/^    QPushButton* pushButtonDefault;$/;"	m	class:MatlEditor
+pushButtonGold	.ui/MaterialDlg.h	/^    QPushButton* pushButtonGold;$/;"	m	class:MatlEditor
+pushButtonJade	.ui/MaterialDlg.h	/^    QPushButton* pushButtonJade;$/;"	m	class:MatlEditor
+pushButtonPerl	.ui/MaterialDlg.h	/^    QPushButton* pushButtonPerl;$/;"	m	class:MatlEditor
+pushButtonPlastic	.ui/MaterialDlg.h	/^    QPushButton* pushButtonPlastic;$/;"	m	class:MatlEditor
+pushButtonRuby	.ui/MaterialDlg.h	/^    QPushButton* pushButtonRuby;$/;"	m	class:MatlEditor
+pushButtonSilver	.ui/MaterialDlg.h	/^    QPushButton* pushButtonSilver;$/;"	m	class:MatlEditor
+pushButtonTurquoise	.ui/MaterialDlg.h	/^    QPushButton* pushButtonTurquoise;$/;"	m	class:MatlEditor
+qt_cast	.moc/moc_CadSurf.cpp	/^void* CadSurfApp::qt_cast( const char* clname )$/;"	f	class:CadSurfApp
+qt_cast	.moc/moc_CadSurfDoc.cpp	/^void* CadSurfDoc::qt_cast( const char* clname )$/;"	f	class:CadSurfDoc
+qt_cast	.moc/moc_CadSurfView.cpp	/^void* CadSurfView::qt_cast( const char* clname )$/;"	f	class:CadSurfView
+qt_cast	.moc/moc_GridDlg.cpp	/^void* GridDlg::qt_cast( const char* clname )$/;"	f	class:GridDlg
+qt_cast	.moc/moc_GridSettings.cpp	/^void* GridSettings::qt_cast( const char* clname )$/;"	f	class:GridSettings
+qt_cast	.moc/moc_MDIWindow.cpp	/^void* MDIWindow::qt_cast( const char* clname )$/;"	f	class:MDIWindow
+qt_cast	.moc/moc_MaterialDlg.cpp	/^void* MatlEditor::qt_cast( const char* clname )$/;"	f	class:MatlEditor
+qt_emit	.moc/moc_CadSurf.cpp	/^bool CadSurfApp::qt_emit( int _id, QUObject* _o )$/;"	f	class:CadSurfApp
+qt_emit	.moc/moc_CadSurfDoc.cpp	/^bool CadSurfDoc::qt_emit( int _id, QUObject* _o )$/;"	f	class:CadSurfDoc
+qt_emit	.moc/moc_CadSurfView.cpp	/^bool CadSurfView::qt_emit( int _id, QUObject* _o )$/;"	f	class:CadSurfView
+qt_emit	.moc/moc_GridDlg.cpp	/^bool GridDlg::qt_emit( int _id, QUObject* _o )$/;"	f	class:GridDlg
+qt_emit	.moc/moc_GridSettings.cpp	/^bool GridSettings::qt_emit( int _id, QUObject* _o )$/;"	f	class:GridSettings
+qt_emit	.moc/moc_MDIWindow.cpp	/^bool MDIWindow::qt_emit( int _id, QUObject* _o )$/;"	f	class:MDIWindow
+qt_emit	.moc/moc_MaterialDlg.cpp	/^bool MatlEditor::qt_emit( int _id, QUObject* _o )$/;"	f	class:MatlEditor
+qt_invoke	.moc/moc_CadSurf.cpp	/^bool CadSurfApp::qt_invoke( int _id, QUObject* _o )$/;"	f	class:CadSurfApp
+qt_invoke	.moc/moc_CadSurfDoc.cpp	/^bool CadSurfDoc::qt_invoke( int _id, QUObject* _o )$/;"	f	class:CadSurfDoc
+qt_invoke	.moc/moc_CadSurfView.cpp	/^bool CadSurfView::qt_invoke( int _id, QUObject* _o )$/;"	f	class:CadSurfView
+qt_invoke	.moc/moc_GridDlg.cpp	/^bool GridDlg::qt_invoke( int _id, QUObject* _o )$/;"	f	class:GridDlg
+qt_invoke	.moc/moc_GridSettings.cpp	/^bool GridSettings::qt_invoke( int _id, QUObject* _o )$/;"	f	class:GridSettings
+qt_invoke	.moc/moc_MDIWindow.cpp	/^bool MDIWindow::qt_invoke( int _id, QUObject* _o )$/;"	f	class:MDIWindow
+qt_invoke	.moc/moc_MaterialDlg.cpp	/^bool MatlEditor::qt_invoke( int _id, QUObject* _o )$/;"	f	class:MatlEditor
+qt_property	.moc/moc_CadSurf.cpp	/^bool CadSurfApp::qt_property( int id, int f, QVariant* v)$/;"	f	class:CadSurfApp
+qt_property	.moc/moc_CadSurfDoc.cpp	/^bool CadSurfDoc::qt_property( int id, int f, QVariant* v)$/;"	f	class:CadSurfDoc
+qt_property	.moc/moc_CadSurfView.cpp	/^bool CadSurfView::qt_property( int id, int f, QVariant* v)$/;"	f	class:CadSurfView
+qt_property	.moc/moc_GridDlg.cpp	/^bool GridDlg::qt_property( int id, int f, QVariant* v)$/;"	f	class:GridDlg
+qt_property	.moc/moc_GridSettings.cpp	/^bool GridSettings::qt_property( int id, int f, QVariant* v)$/;"	f	class:GridSettings
+qt_property	.moc/moc_MDIWindow.cpp	/^bool MDIWindow::qt_property( int id, int f, QVariant* v)$/;"	f	class:MDIWindow
+qt_property	.moc/moc_MaterialDlg.cpp	/^bool MatlEditor::qt_property( int id, int f, QVariant* v)$/;"	f	class:MatlEditor
+qt_static_property	.moc/moc_CadSurf.cpp	/^bool CadSurfApp::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:CadSurfApp
+qt_static_property	.moc/moc_CadSurfDoc.cpp	/^bool CadSurfDoc::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:CadSurfDoc
+qt_static_property	.moc/moc_CadSurfView.cpp	/^bool CadSurfView::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:CadSurfView
+qt_static_property	.moc/moc_GridDlg.cpp	/^bool GridDlg::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:GridDlg
+qt_static_property	.moc/moc_GridSettings.cpp	/^bool GridSettings::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:GridSettings
+qt_static_property	.moc/moc_MDIWindow.cpp	/^bool MDIWindow::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:MDIWindow
+qt_static_property	.moc/moc_MaterialDlg.cpp	/^bool MatlEditor::qt_static_property( QObject* , int , int , QVariant* ){ return FALSE; }$/;"	f	class:MatlEditor
+queryExit	CadSurf.cpp	/^bool CadSurfApp::queryExit()$/;"	f	class:CadSurfApp
+queryExit	CadSurf.h	/^	bool queryExit();$/;"	p	class:CadSurfApp
+rPoint	CadSurfView.h	/^	QPoint  rPoint;	$/;"	m	class:CadSurfView
+rPoint	QGLView.h	/^	QPoint  rPoint;$/;"	m	class:QGLView
+rdown	CadSurfView.h	/^	bool rdown;$/;"	m	class:CadSurfView
+rdown	QGLView.h	/^	bool rdown;$/;"	m	class:QGLView
+removeView	CadSurfDoc.cpp	/^void CadSurfDoc::removeView(CadSurfView *view)$/;"	f	class:CadSurfDoc
+removeView	CadSurfDoc.h	/^    void removeView(CadSurfView *view);$/;"	p	class:CadSurfDoc
+resizeEvent	CadSurfView.cpp	/^void CadSurfView::resizeEvent( QResizeEvent* \/*e*\/)$/;"	f	class:CadSurfView
+resizeEvent	CadSurfView.h	/^  	void resizeEvent( QResizeEvent *);$/;"	p	class:CadSurfView
+resizeGL	CadSurfView.cpp	/^void CadSurfView::resizeGL(int w, int h)$/;"	f	class:CadSurfView
+resizeGL	CadSurfView.h	/^	virtual void resizeGL(int w, int h);$/;"	p	class:CadSurfView
+saveDocument	CadSurfDoc.cpp	/^bool CadSurfDoc::saveDocument(const QString &filename, const char* \/*format =0*\/)$/;"	f	class:CadSurfDoc
+saveDocument	CadSurfDoc.h	/^    bool saveDocument(const QString &filename, const char *format=0);$/;"	p	class:CadSurfDoc
+selListIter	GLDisplayContext.h	/^	mutable CListIteratorOfListOfCGLObject selListIter;$/;"	m	class:CGLDisplayContext
+select	GLDisplayContext.h	/^	CListOfCGLObject* select;$/;"	m	class:CGLDisplayContext
+setModified	CadSurfDoc.h	/^    void setModified(bool _m=true){ modified=_m; };$/;"	f	class:CadSurfDoc
+setPathName	CadSurfDoc.cpp	/^void CadSurfDoc::setPathName(const QString &name)$/;"	f	class:CadSurfDoc
+setPathName	CadSurfDoc.h	/^    void setPathName(const QString &name);$/;"	p	class:CadSurfDoc
+setTitle	CadSurfDoc.cpp	/^void CadSurfDoc::setTitle(const QString &title)$/;"	f	class:CadSurfDoc
+setTitle	CadSurfDoc.h	/^    void setTitle(const QString &title);$/;"	p	class:CadSurfDoc
+sliderMAB	.ui/MaterialDlg.h	/^    QSlider* sliderMAB;$/;"	m	class:MatlEditor
+sliderMAG	.ui/MaterialDlg.h	/^    QSlider* sliderMAG;$/;"	m	class:MatlEditor
+sliderMAR	.ui/MaterialDlg.h	/^    QSlider* sliderMAR;$/;"	m	class:MatlEditor
+sliderMDB	.ui/MaterialDlg.h	/^    QSlider* sliderMDB;$/;"	m	class:MatlEditor
+sliderMDG	.ui/MaterialDlg.h	/^    QSlider* sliderMDG;$/;"	m	class:MatlEditor
+sliderMDR	.ui/MaterialDlg.h	/^    QSlider* sliderMDR;$/;"	m	class:MatlEditor
+sliderMSB	.ui/MaterialDlg.h	/^    QSlider* sliderMSB;$/;"	m	class:MatlEditor
+sliderMSG	.ui/MaterialDlg.h	/^    QSlider* sliderMSG;$/;"	m	class:MatlEditor
+sliderMSR	.ui/MaterialDlg.h	/^    QSlider* sliderMSR;$/;"	m	class:MatlEditor
+sliderShine	.ui/MaterialDlg.h	/^    QSlider* sliderShine;$/;"	m	class:MatlEditor
+slotAmbientB	.ui/MaterialDlg.h	/^    virtual void slotAmbientB();$/;"	p	class:MatlEditor
+slotAmbientB	MaterialDlg.ui.h	/^void MatlEditor::slotAmbientB()$/;"	f	class:MatlEditor
+slotAmbientG	.ui/MaterialDlg.h	/^    virtual void slotAmbientG();$/;"	p	class:MatlEditor
+slotAmbientG	MaterialDlg.ui.h	/^void MatlEditor::slotAmbientG()$/;"	f	class:MatlEditor
+slotAmbientR	.ui/MaterialDlg.h	/^    virtual void slotAmbientR();$/;"	p	class:MatlEditor
+slotAmbientR	MaterialDlg.ui.h	/^void MatlEditor::slotAmbientR()$/;"	f	class:MatlEditor
+slotAntial	CadSurf.cpp	/^void CadSurfApp::slotAntial()$/;"	f	class:CadSurfApp
+slotAntial	CadSurf.h	/^	void slotAntial();$/;"	p	class:CadSurfApp
+slotAxoView	CadSurf.cpp	/^void CadSurfApp::slotAxoView()$/;"	f	class:CadSurfApp
+slotAxoView	CadSurf.h	/^	void slotAxoView();$/;"	p	class:CadSurfApp
+slotBackColor	CadSurf.cpp	/^void CadSurfApp::slotBackColor()$/;"	f	class:CadSurfApp
+slotBackColor	CadSurf.h	/^	void slotBackColor();$/;"	p	class:CadSurfApp
+slotBackView	CadSurf.cpp	/^void CadSurfApp::slotBackView()$/;"	f	class:CadSurfApp
+slotBackView	CadSurf.h	/^	void slotBackView();$/;"	p	class:CadSurfApp
+slotBottomView	CadSurf.cpp	/^void CadSurfApp::slotBottomView()$/;"	f	class:CadSurfApp
+slotBottomView	CadSurf.h	/^	void slotBottomView();$/;"	p	class:CadSurfApp
+slotBrass	.ui/MaterialDlg.h	/^    virtual void slotBrass();$/;"	p	class:MatlEditor
+slotBrass	MaterialDlg.ui.h	/^void MatlEditor::slotBrass()$/;"	f	class:MatlEditor
+slotBronze	.ui/MaterialDlg.h	/^    virtual void slotBronze();$/;"	p	class:MatlEditor
+slotBronze	MaterialDlg.ui.h	/^void MatlEditor::slotBronze()$/;"	f	class:MatlEditor
+slotCopper	.ui/MaterialDlg.h	/^    virtual void slotCopper();$/;"	p	class:MatlEditor
+slotCopper	MaterialDlg.ui.h	/^void MatlEditor::slotCopper()$/;"	f	class:MatlEditor
+slotDefaults	.ui/MaterialDlg.h	/^    virtual void slotDefaults();$/;"	p	class:MatlEditor
+slotDefaults	MaterialDlg.ui.h	/^void MatlEditor::slotDefaults()$/;"	f	class:MatlEditor
+slotDiffuseB	.ui/MaterialDlg.h	/^    virtual void slotDiffuseB();$/;"	p	class:MatlEditor
+slotDiffuseB	MaterialDlg.ui.h	/^void MatlEditor::slotDiffuseB()$/;"	f	class:MatlEditor
+slotDiffuseG	.ui/MaterialDlg.h	/^    virtual void slotDiffuseG();$/;"	p	class:MatlEditor
+slotDiffuseG	MaterialDlg.ui.h	/^void MatlEditor::slotDiffuseG()$/;"	f	class:MatlEditor
+slotDiffuseR	.ui/MaterialDlg.h	/^    virtual void slotDiffuseR();$/;"	p	class:MatlEditor
+slotDiffuseR	MaterialDlg.ui.h	/^void MatlEditor::slotDiffuseR()$/;"	f	class:MatlEditor
+slotDmode	CadSurf.cpp	/^void CadSurfApp::slotDmode()$/;"	f	class:CadSurfApp
+slotDmode	CadSurf.h	/^	void slotDmode();$/;"	p	class:CadSurfApp
+slotEditCopy	CadSurf.cpp	/^void CadSurfApp::slotEditCopy()$/;"	f	class:CadSurfApp
+slotEditCopy	CadSurf.h	/^	void slotEditCopy();$/;"	p	class:CadSurfApp
+slotEditCut	CadSurf.cpp	/^void CadSurfApp::slotEditCut()$/;"	f	class:CadSurfApp
+slotEditCut	CadSurf.h	/^	void slotEditCut();$/;"	p	class:CadSurfApp
+slotEditDeleteAll	CadSurf.cpp	/^void CadSurfApp::slotEditDeleteAll()$/;"	f	class:CadSurfApp
+slotEditDeleteAll	CadSurf.h	/^	void slotEditDeleteAll();$/;"	p	class:CadSurfApp
+slotEditDeleteSelected	CadSurf.cpp	/^void CadSurfApp::slotEditDeleteSelected()$/;"	f	class:CadSurfApp
+slotEditDeleteSelected	CadSurf.h	/^	void slotEditDeleteSelected();$/;"	p	class:CadSurfApp
+slotEditPaste	CadSurf.cpp	/^void CadSurfApp::slotEditPaste()$/;"	f	class:CadSurfApp
+slotEditPaste	CadSurf.h	/^	void slotEditPaste();$/;"	p	class:CadSurfApp
+slotEditUndo	CadSurf.cpp	/^void CadSurfApp::slotEditUndo()$/;"	f	class:CadSurfApp
+slotEditUndo	CadSurf.h	/^	void slotEditUndo();$/;"	p	class:CadSurfApp
+slotFileClose	CadSurf.cpp	/^void CadSurfApp::slotFileClose()$/;"	f	class:CadSurfApp
+slotFileClose	CadSurf.h	/^	void slotFileClose();$/;"	p	class:CadSurfApp
+slotFileNew	CadSurf.cpp	/^void CadSurfApp::slotFileNew()$/;"	f	class:CadSurfApp
+slotFileNew	CadSurf.h	/^	    void slotFileNew();$/;"	p	class:CadSurfApp
+slotFileOpen	CadSurf.cpp	/^void CadSurfApp::slotFileOpen()$/;"	f	class:CadSurfApp
+slotFileOpen	CadSurf.h	/^	void slotFileOpen();$/;"	p	class:CadSurfApp
+slotFilePrint	CadSurf.cpp	/^void CadSurfApp::slotFilePrint()$/;"	f	class:CadSurfApp
+slotFilePrint	CadSurf.h	/^	void slotFilePrint();$/;"	p	class:CadSurfApp
+slotFileQuit	CadSurf.cpp	/^void CadSurfApp::slotFileQuit()$/;"	f	class:CadSurfApp
+slotFileQuit	CadSurf.h	/^	void slotFileQuit();$/;"	p	class:CadSurfApp
+slotFileSave	CadSurf.cpp	/^void CadSurfApp::slotFileSave()$/;"	f	class:CadSurfApp
+slotFileSave	CadSurf.h	/^	void slotFileSave();$/;"	p	class:CadSurfApp
+slotFileSaveAs	CadSurf.cpp	/^void CadSurfApp::slotFileSaveAs()$/;"	f	class:CadSurfApp
+slotFileSaveAs	CadSurf.h	/^	void slotFileSaveAs();$/;"	p	class:CadSurfApp
+slotFitall	CadSurf.cpp	/^void CadSurfApp::slotFitall()$/;"	f	class:CadSurfApp
+slotFitall	CadSurf.h	/^	void slotFitall();$/;"	p	class:CadSurfApp
+slotFrontView	CadSurf.cpp	/^void CadSurfApp::slotFrontView()$/;"	f	class:CadSurfApp
+slotFrontView	CadSurf.h	/^	void slotFrontView();$/;"	p	class:CadSurfApp
+slotGold	.ui/MaterialDlg.h	/^    virtual void slotGold();$/;"	p	class:MatlEditor
+slotGold	MaterialDlg.ui.h	/^void MatlEditor::slotGold()$/;"	f	class:MatlEditor
+slotGridPara	CadSurf.cpp	/^void CadSurfApp::slotGridPara()$/;"	f	class:CadSurfApp
+slotGridPara	CadSurf.h	/^	void slotGridPara();$/;"	p	class:CadSurfApp
+slotHLR	CadSurf.cpp	/^void CadSurfApp::slotHLR()$/;"	f	class:CadSurfApp
+slotHLR	CadSurf.h	/^	void slotHLR();$/;"	p	class:CadSurfApp
+slotHelp	.ui/MaterialDlg.h	/^    virtual void slotHelp();$/;"	p	class:MatlEditor
+slotHelp	MaterialDlg.ui.h	/^void MatlEditor::slotHelp()$/;"	f	class:MatlEditor
+slotHelpAbout	CadSurf.cpp	/^void CadSurfApp::slotHelpAbout()$/;"	f	class:CadSurfApp
+slotHelpAbout	CadSurf.h	/^	void slotHelpAbout();$/;"	p	class:CadSurfApp
+slotJade	.ui/MaterialDlg.h	/^    virtual void slotJade();$/;"	p	class:MatlEditor
+slotJade	MaterialDlg.ui.h	/^void MatlEditor::slotJade()$/;"	f	class:MatlEditor
+slotLeftView	CadSurf.cpp	/^void CadSurfApp::slotLeftView()$/;"	f	class:CadSurfApp
+slotLeftView	CadSurf.h	/^	void slotLeftView();$/;"	p	class:CadSurfApp
+slotLineDashed	CadSurf.cpp	/^void CadSurfApp::slotLineDashed()$/;"	f	class:CadSurfApp
+slotLineDashed	CadSurf.h	/^	void slotLineDashed();$/;"	p	class:CadSurfApp
+slotLineDotDashed	CadSurf.cpp	/^void CadSurfApp::slotLineDotDashed()$/;"	f	class:CadSurfApp
+slotLineDotDashed	CadSurf.h	/^	void slotLineDotDashed();$/;"	p	class:CadSurfApp
+slotLineDotted	CadSurf.cpp	/^void CadSurfApp::slotLineDotted()$/;"	f	class:CadSurfApp
+slotLineDotted	CadSurf.h	/^	void slotLineDotted();$/;"	p	class:CadSurfApp
+slotLineSolid	CadSurf.cpp	/^void CadSurfApp::slotLineSolid()$/;"	f	class:CadSurfApp
+slotLineSolid	CadSurf.h	/^	void slotLineSolid();$/;"	p	class:CadSurfApp
+slotPerl	.ui/MaterialDlg.h	/^    virtual void slotPerl();$/;"	p	class:MatlEditor
+slotPerl	MaterialDlg.ui.h	/^void MatlEditor::slotPerl()$/;"	f	class:MatlEditor
+slotPlastic	.ui/MaterialDlg.h	/^    virtual void slotPlastic();$/;"	p	class:MatlEditor
+slotPlastic	MaterialDlg.ui.h	/^void MatlEditor::slotPlastic()$/;"	f	class:MatlEditor
+slotReset	CadSurf.cpp	/^void CadSurfApp::slotReset()$/;"	f	class:CadSurfApp
+slotReset	CadSurf.h	/^	void slotReset();$/;"	p	class:CadSurfApp
+slotRightView	CadSurf.cpp	/^void CadSurfApp::slotRightView()$/;"	f	class:CadSurfApp
+slotRightView	CadSurf.h	/^	void slotRightView();$/;"	p	class:CadSurfApp
+slotRuby	.ui/MaterialDlg.h	/^    virtual void slotRuby();$/;"	p	class:MatlEditor
+slotRuby	MaterialDlg.ui.h	/^void MatlEditor::slotRuby()$/;"	f	class:MatlEditor
+slotSetColor	CadSurf.cpp	/^void CadSurfApp::slotSetColor()$/;"	f	class:CadSurfApp
+slotSetColor	CadSurf.h	/^	void slotSetColor();$/;"	p	class:CadSurfApp
+slotSetMaterial	CadSurf.cpp	/^void CadSurfApp::slotSetMaterial()$/;"	f	class:CadSurfApp
+slotSetMaterial	CadSurf.h	/^	void slotSetMaterial();$/;"	p	class:CadSurfApp
+slotSetShaded	CadSurf.cpp	/^void CadSurfApp::slotSetShaded()$/;"	f	class:CadSurfApp
+slotSetShaded	CadSurf.h	/^	void slotSetShaded();$/;"	p	class:CadSurfApp
+slotSetWireframe	CadSurf.cpp	/^void CadSurfApp::slotSetWireframe()$/;"	f	class:CadSurfApp
+slotSetWireframe	CadSurf.h	/^	void slotSetWireframe();$/;"	p	class:CadSurfApp
+slotShininess	.ui/MaterialDlg.h	/^    virtual void slotShininess();$/;"	p	class:MatlEditor
+slotShininess	MaterialDlg.ui.h	/^void MatlEditor::slotShininess()$/;"	f	class:MatlEditor
+slotSilver	.ui/MaterialDlg.h	/^    virtual void slotSilver();$/;"	p	class:MatlEditor
+slotSilver	MaterialDlg.ui.h	/^void MatlEditor::slotSilver()$/;"	f	class:MatlEditor
+slotSpecularB	.ui/MaterialDlg.h	/^    virtual void slotSpecularB();$/;"	p	class:MatlEditor
+slotSpecularB	MaterialDlg.ui.h	/^void MatlEditor::slotSpecularB()$/;"	f	class:MatlEditor
+slotSpecularG	.ui/MaterialDlg.h	/^    virtual void slotSpecularG();$/;"	p	class:MatlEditor
+slotSpecularG	MaterialDlg.ui.h	/^void MatlEditor::slotSpecularG()$/;"	f	class:MatlEditor
+slotSpecularR	.ui/MaterialDlg.h	/^    virtual void slotSpecularR();$/;"	p	class:MatlEditor
+slotSpecularR	MaterialDlg.ui.h	/^void MatlEditor::slotSpecularR()$/;"	f	class:MatlEditor
+slotStatusHelpMsg	CadSurf.cpp	/^void CadSurfApp::slotStatusHelpMsg(const QString &text)$/;"	f	class:CadSurfApp
+slotStatusHelpMsg	CadSurf.h	/^	void slotStatusHelpMsg(const QString &text);$/;"	p	class:CadSurfApp
+slotToggleGrid	CadSurf.cpp	/^void CadSurfApp::slotToggleGrid()$/;"	f	class:CadSurfApp
+slotToggleGrid	CadSurf.h	/^	void slotToggleGrid();$/;"	p	class:CadSurfApp
+slotTopView	CadSurf.cpp	/^void CadSurfApp::slotTopView()$/;"	f	class:CadSurfApp
+slotTopView	CadSurf.h	/^	void slotTopView();$/;"	p	class:CadSurfApp
+slotTurquoise	.ui/MaterialDlg.h	/^    virtual void slotTurquoise();$/;"	p	class:MatlEditor
+slotTurquoise	MaterialDlg.ui.h	/^void MatlEditor::slotTurquoise()$/;"	f	class:MatlEditor
+slotUpdateTime	CadSurfView.cpp	/^void CadSurfView::slotUpdateTime()$/;"	f	class:CadSurfView
+slotUpdateTime	CadSurfView.h	/^	void slotUpdateTime();$/;"	p	class:CadSurfView
+slotViewDisplayAll	CadSurf.cpp	/^void CadSurfApp::slotViewDisplayAll()$/;"	f	class:CadSurfApp
+slotViewDisplayAll	CadSurf.h	/^	void slotViewDisplayAll();$/;"	p	class:CadSurfApp
+slotViewDisplaySelected	CadSurf.cpp	/^void CadSurfApp::slotViewDisplaySelected()$/;"	f	class:CadSurfApp
+slotViewDisplaySelected	CadSurf.h	/^	void slotViewDisplaySelected();$/;"	p	class:CadSurfApp
+slotViewEraseAll	CadSurf.cpp	/^void CadSurfApp::slotViewEraseAll()$/;"	f	class:CadSurfApp
+slotViewEraseAll	CadSurf.h	/^	void slotViewEraseAll();$/;"	p	class:CadSurfApp
+slotViewEraseSelected	CadSurf.cpp	/^void CadSurfApp::slotViewEraseSelected()$/;"	f	class:CadSurfApp
+slotViewEraseSelected	CadSurf.h	/^	void slotViewEraseSelected();$/;"	p	class:CadSurfApp
+slotViewStatusBar	CadSurf.cpp	/^void CadSurfApp::slotViewStatusBar(bool toggle)$/;"	f	class:CadSurfApp
+slotViewStatusBar	CadSurf.h	/^	void slotViewStatusBar(bool toggle);$/;"	p	class:CadSurfApp
+slotViewToolBar	CadSurf.cpp	/^void CadSurfApp::slotViewToolBar(bool toggle)$/;"	f	class:CadSurfApp
+slotViewToolBar	CadSurf.h	/^	void slotViewToolBar(bool toggle);$/;"	p	class:CadSurfApp
+slotWindowNewWindow	CadSurf.cpp	/^void CadSurfApp::slotWindowNewWindow()$/;"	f	class:CadSurfApp
+slotWindowNewWindow	CadSurf.h	/^	void slotWindowNewWindow();$/;"	p	class:CadSurfApp
+slotZoomwin	CadSurf.cpp	/^void CadSurfApp::slotZoomwin()$/;"	f	class:CadSurfApp
+slotZoomwin	CadSurf.h	/^	void slotZoomwin();$/;"	p	class:CadSurfApp
+slotmkBSpline	CadSurf.cpp	/^void CadSurfApp::slotmkBSpline()$/;"	f	class:CadSurfApp
+slotmkBSpline	CadSurf.h	/^	void slotmkBSpline();$/;"	p	class:CadSurfApp
+slotmkBezier	CadSurf.cpp	/^void CadSurfApp::slotmkBezier()$/;"	f	class:CadSurfApp
+slotmkBezier	CadSurf.h	/^	void slotmkBezier();$/;"	p	class:CadSurfApp
+slotmkCircle	CadSurf.cpp	/^void CadSurfApp::slotmkCircle()$/;"	f	class:CadSurfApp
+slotmkCircle	CadSurf.h	/^	void slotmkCircle();$/;"	p	class:CadSurfApp
+slotmkCone	CadSurf.cpp	/^void CadSurfApp::slotmkCone()$/;"	f	class:CadSurfApp
+slotmkCone	CadSurf.h	/^	void slotmkCone();$/;"	p	class:CadSurfApp
+slotmkCylinder	CadSurf.cpp	/^void CadSurfApp::slotmkCylinder()$/;"	f	class:CadSurfApp
+slotmkCylinder	CadSurf.h	/^	void slotmkCylinder();$/;"	p	class:CadSurfApp
+slotmkEllipse	CadSurf.cpp	/^void CadSurfApp::slotmkEllipse()$/;"	f	class:CadSurfApp
+slotmkEllipse	CadSurf.h	/^	void slotmkEllipse();$/;"	p	class:CadSurfApp
+slotmkExtruded	CadSurf.cpp	/^void CadSurfApp::slotmkExtruded()$/;"	f	class:CadSurfApp
+slotmkExtruded	CadSurf.h	/^	void slotmkExtruded();$/;"	p	class:CadSurfApp
+slotmkHyperbola	CadSurf.cpp	/^void CadSurfApp::slotmkHyperbola()$/;"	f	class:CadSurfApp
+slotmkHyperbola	CadSurf.h	/^	void slotmkHyperbola();$/;"	p	class:CadSurfApp
+slotmkLine	CadSurf.cpp	/^void CadSurfApp::slotmkLine()$/;"	f	class:CadSurfApp
+slotmkLine	CadSurf.h	/^	void slotmkLine();$/;"	p	class:CadSurfApp
+slotmkParabola	CadSurf.cpp	/^void CadSurfApp::slotmkParabola()$/;"	f	class:CadSurfApp
+slotmkParabola	CadSurf.h	/^	void slotmkParabola();$/;"	p	class:CadSurfApp
+slotmkPipe	CadSurf.cpp	/^void CadSurfApp::slotmkPipe()$/;"	f	class:CadSurfApp
+slotmkPipe	CadSurf.h	/^	void slotmkPipe();$/;"	p	class:CadSurfApp
+slotmkPlane	CadSurf.cpp	/^void CadSurfApp::slotmkPlane()$/;"	f	class:CadSurfApp
+slotmkPlane	CadSurf.h	/^	void slotmkPlane();$/;"	p	class:CadSurfApp
+slotmkPoint	CadSurf.cpp	/^void CadSurfApp::slotmkPoint()$/;"	f	class:CadSurfApp
+slotmkPoint	CadSurf.h	/^	void slotmkPoint();$/;"	p	class:CadSurfApp
+slotmkReflect	CadSurf.cpp	/^void CadSurfApp::slotmkReflect()$/;"	f	class:CadSurfApp
+slotmkReflect	CadSurf.h	/^	void slotmkReflect();$/;"	p	class:CadSurfApp
+slotmkRevolved	CadSurf.cpp	/^void CadSurfApp::slotmkRevolved()$/;"	f	class:CadSurfApp
+slotmkRevolved	CadSurf.h	/^	void slotmkRevolved();$/;"	p	class:CadSurfApp
+slotmkRotate	CadSurf.cpp	/^void CadSurfApp::slotmkRotate()$/;"	f	class:CadSurfApp
+slotmkRotate	CadSurf.h	/^	void slotmkRotate();$/;"	p	class:CadSurfApp
+slotmkRuled	CadSurf.cpp	/^void CadSurfApp::slotmkRuled()$/;"	f	class:CadSurfApp
+slotmkRuled	CadSurf.h	/^	void slotmkRuled();$/;"	p	class:CadSurfApp
+slotmkScale	CadSurf.cpp	/^void CadSurfApp::slotmkScale()$/;"	f	class:CadSurfApp
+slotmkScale	CadSurf.h	/^	void slotmkScale();$/;"	p	class:CadSurfApp
+slotmkSphere	CadSurf.cpp	/^void CadSurfApp::slotmkSphere()$/;"	f	class:CadSurfApp
+slotmkSphere	CadSurf.h	/^	void slotmkSphere();$/;"	p	class:CadSurfApp
+slotmkTorus	CadSurf.cpp	/^void CadSurfApp::slotmkTorus()$/;"	f	class:CadSurfApp
+slotmkTorus	CadSurf.h	/^	void slotmkTorus();$/;"	p	class:CadSurfApp
+slotmkTranslate	CadSurf.cpp	/^void CadSurfApp::slotmkTranslate()$/;"	f	class:CadSurfApp
+slotmkTranslate	CadSurf.h	/^	void slotmkTranslate();$/;"	p	class:CadSurfApp
+slotmkUserSurf	CadSurf.cpp	/^void CadSurfApp::slotmkUserSurf()$/;"	f	class:CadSurfApp
+slotmkUserSurf	CadSurf.h	/^	void slotmkUserSurf();$/;"	p	class:CadSurfApp
+specref	QGLView.h	/^	GLfloat  specref[4];$/;"	m	class:QGLView
+specular	QGLView.h	/^	GLfloat  specular[4];$/;"	m	class:QGLView
+spinBox1	.ui/GridSettings.h	/^    QSpinBox* spinBox1;$/;"	m	class:GridSettings
+spinBox2	.ui/GridSettings.h	/^    QSpinBox* spinBox2;$/;"	m	class:GridSettings
+spinBox3	.ui/GridSettings.h	/^    QSpinBox* spinBox3;$/;"	m	class:GridSettings
+spinBox4	.ui/GridSettings.h	/^    QSpinBox* spinBox4;$/;"	m	class:GridSettings
+spinBox5	.ui/GridSettings.h	/^    QSpinBox* spinBox5;$/;"	m	class:GridSettings
+staticMetaObject	.moc/moc_CadSurf.cpp	/^QMetaObject* CadSurfApp::staticMetaObject()$/;"	f	class:CadSurfApp
+staticMetaObject	.moc/moc_CadSurfDoc.cpp	/^QMetaObject* CadSurfDoc::staticMetaObject()$/;"	f	class:CadSurfDoc
+staticMetaObject	.moc/moc_CadSurfView.cpp	/^QMetaObject* CadSurfView::staticMetaObject()$/;"	f	class:CadSurfView
+staticMetaObject	.moc/moc_GridDlg.cpp	/^QMetaObject* GridDlg::staticMetaObject()$/;"	f	class:GridDlg
+staticMetaObject	.moc/moc_GridSettings.cpp	/^QMetaObject* GridSettings::staticMetaObject()$/;"	f	class:GridSettings
+staticMetaObject	.moc/moc_MDIWindow.cpp	/^QMetaObject* MDIWindow::staticMetaObject()$/;"	f	class:MDIWindow
+staticMetaObject	.moc/moc_MaterialDlg.cpp	/^QMetaObject* MatlEditor::staticMetaObject()$/;"	f	class:MatlEditor
+tViewer	CadSurf.h	/^	QLabel *tViewer;$/;"	m	class:CadSurfApp
+textLabel1	.ui/GridSettings.h	/^    QLabel* textLabel1;$/;"	m	class:GridSettings
+textLabel1_2_3_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_2_3_2;$/;"	m	class:MatlEditor
+textLabel1_2_4_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_2_4_2;$/;"	m	class:MatlEditor
+textLabel1_2_5	.ui/MaterialDlg.h	/^    QLabel* textLabel1_2_5;$/;"	m	class:MatlEditor
+textLabel1_3_3_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_3_3_2;$/;"	m	class:MatlEditor
+textLabel1_3_4_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_3_4_2;$/;"	m	class:MatlEditor
+textLabel1_3_5	.ui/MaterialDlg.h	/^    QLabel* textLabel1_3_5;$/;"	m	class:MatlEditor
+textLabel1_5_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_5_2;$/;"	m	class:MatlEditor
+textLabel1_6_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_6_2;$/;"	m	class:MatlEditor
+textLabel1_6_2_2	.ui/MaterialDlg.h	/^    QLabel* textLabel1_6_2_2;$/;"	m	class:MatlEditor
+textLabel1_7	.ui/MaterialDlg.h	/^    QLabel* textLabel1_7;$/;"	m	class:MatlEditor
+textLabel2	.ui/GridSettings.h	/^    QLabel* textLabel2;$/;"	m	class:GridSettings
+textLabel3	.ui/GridSettings.h	/^    QLabel* textLabel3;$/;"	m	class:GridSettings
+textLabel4	.ui/GridSettings.h	/^    QLabel* textLabel4;$/;"	m	class:GridSettings
+textLabel5	.ui/GridSettings.h	/^    QLabel* textLabel5;$/;"	m	class:GridSettings
+theContext	QGLView.h	/^	CGLDisplayContext* theContext;$/;"	m	class:QGLView
+theMaterial	.ui/MaterialDlg.h	/^    CGLMaterial theMaterial;$/;"	m	class:MatlEditor
+theWidget	QGLView.h	/^	QGLWidget* theWidget;$/;"	m	class:QGLView
+title	CadSurfDoc.cpp	/^const QString &CadSurfDoc::title() const$/;"	f	class:CadSurfDoc
+title	CadSurfDoc.h	/^    const QString& title() const;$/;"	p	class:CadSurfDoc
+tm	CadSurfView.h	/^    QTime tm; QDate dt;$/;"	m	class:CadSurfView
+tmStr	CadSurfView.h	/^    QString dtStr, tmStr;$/;"	m	class:CadSurfView
+tr	.moc/moc_CadSurf.cpp	/^QString CadSurfApp::tr( const char *s, const char *c )$/;"	f	class:CadSurfApp
+tr	.moc/moc_CadSurfDoc.cpp	/^QString CadSurfDoc::tr( const char *s, const char *c )$/;"	f	class:CadSurfDoc
+tr	.moc/moc_CadSurfView.cpp	/^QString CadSurfView::tr( const char *s, const char *c )$/;"	f	class:CadSurfView
+tr	.moc/moc_GridDlg.cpp	/^QString GridDlg::tr( const char *s, const char *c )$/;"	f	class:GridDlg
+tr	.moc/moc_GridSettings.cpp	/^QString GridSettings::tr( const char *s, const char *c )$/;"	f	class:GridSettings
+tr	.moc/moc_MDIWindow.cpp	/^QString MDIWindow::tr( const char *s, const char *c )$/;"	f	class:MDIWindow
+tr	.moc/moc_MaterialDlg.cpp	/^QString MatlEditor::tr( const char *s, const char *c )$/;"	f	class:MatlEditor
+trUtf8	.moc/moc_CadSurf.cpp	/^QString CadSurfApp::trUtf8( const char *s, const char *c )$/;"	f	class:CadSurfApp
+trUtf8	.moc/moc_CadSurfDoc.cpp	/^QString CadSurfDoc::trUtf8( const char *s, const char *c )$/;"	f	class:CadSurfDoc
+trUtf8	.moc/moc_CadSurfView.cpp	/^QString CadSurfView::trUtf8( const char *s, const char *c )$/;"	f	class:CadSurfView
+trUtf8	.moc/moc_GridDlg.cpp	/^QString GridDlg::trUtf8( const char *s, const char *c )$/;"	f	class:GridDlg
+trUtf8	.moc/moc_GridSettings.cpp	/^QString GridSettings::trUtf8( const char *s, const char *c )$/;"	f	class:GridSettings
+trUtf8	.moc/moc_MDIWindow.cpp	/^QString MDIWindow::trUtf8( const char *s, const char *c )$/;"	f	class:MDIWindow
+trUtf8	.moc/moc_MaterialDlg.cpp	/^QString MatlEditor::trUtf8( const char *s, const char *c )$/;"	f	class:MatlEditor
+untitledCount	CadSurf.h	/^	int untitledCount;$/;"	m	class:CadSurfApp
+update	CadSurfDoc.cpp	/^void CadSurfDoc::update()$/;"	f	class:CadSurfDoc
+update	CadSurfDoc.h	/^    void update();$/;"	p	class:CadSurfDoc
+update	CadSurfView.cpp	/^void CadSurfView::update(CadSurfView* pSender){$/;"	f	class:CadSurfView
+update	CadSurfView.h	/^		void update(CadSurfView* pSender);$/;"	p	class:CadSurfView
+updateAllViews	CadSurfDoc.cpp	/^void CadSurfDoc::updateAllViews(CadSurfView *sender)$/;"	f	class:CadSurfDoc
+updateAllViews	CadSurfDoc.h	/^	void updateAllViews(CadSurfView *sender);$/;"	p	class:CadSurfDoc
+updateSliders	.ui/MaterialDlg.h	/^    virtual void updateSliders();$/;"	p	class:MatlEditor
+updateSliders	MaterialDlg.ui.h	/^void MatlEditor::updateSliders()$/;"	f	class:MatlEditor
+viewAntial	CadSurf.h	/^	QAction *viewAntial;$/;"	m	class:CadSurfApp
+viewAxo	CadSurf.h	/^	QAction *viewAxo;$/;"	m	class:CadSurfApp
+viewBack	CadSurf.h	/^	QAction *viewBack;$/;"	m	class:CadSurfApp
+viewBottom	CadSurf.h	/^	QAction *viewBottom;$/;"	m	class:CadSurfApp
+viewBox	GLDisplayContext.h	/^	CBoundingBox viewBox;$/;"	m	class:CGLDisplayContext
+viewDisplayAll	CadSurf.h	/^	QAction *viewDisplayAll;$/;"	m	class:CadSurfApp
+viewDisplaySelected	CadSurf.h	/^	QAction *viewDisplaySelected;$/;"	m	class:CadSurfApp
+viewDmode	CadSurf.h	/^	QAction *viewDmode;$/;"	m	class:CadSurfApp
+viewEraseAll	CadSurf.h	/^	QAction *viewEraseAll;$/;"	m	class:CadSurfApp
+viewEraseSelected	CadSurf.h	/^	QAction *viewEraseSelected;$/;"	m	class:CadSurfApp
+viewFitall	CadSurf.h	/^	QAction *viewFitall;$/;"	m	class:CadSurfApp
+viewFront	CadSurf.h	/^	QAction *viewFront;$/;"	m	class:CadSurfApp
+viewHLR	CadSurf.h	/^	QAction *viewHLR;$/;"	m	class:CadSurfApp
+viewLeft	CadSurf.h	/^	QAction *viewLeft;$/;"	m	class:CadSurfApp
+viewReset	CadSurf.h	/^	QAction *viewReset;$/;"	m	class:CadSurfApp
+viewRight	CadSurf.h	/^	QAction *viewRight;$/;"	m	class:CadSurfApp
+viewStatusBar	CadSurf.h	/^	QAction *viewStatusBar;$/;"	m	class:CadSurfApp
+viewToolBar	CadSurf.h	/^	QAction *viewToolBar;$/;"	m	class:CadSurfApp
+viewToolbar	CadSurf.h	/^	QToolBar *viewToolbar;$/;"	m	class:CadSurfApp
+viewTop	CadSurf.h	/^	QAction *viewTop;$/;"	m	class:CadSurfApp
+viewZoomwin	CadSurf.h	/^	QAction *viewZoomwin;$/;"	m	class:CadSurfApp
+winZoom	CadSurfView.h	/^	bool winZoom;$/;"	m	class:CadSurfView
+windowAction	CadSurf.h	/^	QActionGroup *windowAction;$/;"	m	class:CadSurfApp
+windowCascade	CadSurf.h	/^	QAction *windowCascade;$/;"	m	class:CadSurfApp
+windowMenuAboutToShow	CadSurf.cpp	/^void CadSurfApp::windowMenuAboutToShow()$/;"	f	class:CadSurfApp
+windowMenuAboutToShow	CadSurf.h	/^	void windowMenuAboutToShow();$/;"	p	class:CadSurfApp
+windowMenuActivated	CadSurf.cpp	/^void CadSurfApp::windowMenuActivated( int id )$/;"	f	class:CadSurfApp
+windowMenuActivated	CadSurf.h	/^	void windowMenuActivated( int id );$/;"	p	class:CadSurfApp
+windowNewWindow	CadSurf.h	/^	QAction *windowNewWindow;$/;"	m	class:CadSurfApp
+windowTile	CadSurf.h	/^	QAction *windowTile;$/;"	m	class:CadSurfApp
+xRot	QGLView.h	/^	GLdouble xRot;$/;"	m	class:QGLView
+xTrans	QGLView.h	/^	GLdouble xTrans;$/;"	m	class:QGLView
+yRot	QGLView.h	/^	GLdouble yRot;$/;"	m	class:QGLView
+yTrans	QGLView.h	/^	GLdouble yTrans;$/;"	m	class:QGLView
+zRot	QGLView.h	/^	GLdouble zRot;$/;"	m	class:QGLView
+zTrans	QGLView.h	/^	GLdouble zTrans;$/;"	m	class:QGLView
+~CGLDisplayContext	GLDisplayContext.cpp	/^CGLDisplayContext::~CGLDisplayContext()$/;"	f	class:CGLDisplayContext
+~CGLDisplayContext	GLDisplayContext.h	/^	virtual ~CGLDisplayContext();$/;"	p	class:CGLDisplayContext
+~CHelix	Helix.cpp	/^CHelix::~CHelix()$/;"	f	class:CHelix
+~CHelix	Helix.h	/^	virtual ~CHelix();$/;"	p	class:CHelix
+~CUserSurface	UserSurface.cpp	/^CUserSurface::~CUserSurface()$/;"	f	class:CUserSurface
+~CUserSurface	UserSurface.h	/^	virtual ~CUserSurface();$/;"	p	class:CUserSurface
+~CadSurfApp	CadSurf.cpp	/^CadSurfApp::~CadSurfApp()$/;"	f	class:CadSurfApp
+~CadSurfApp	CadSurf.h	/^	~CadSurfApp();$/;"	p	class:CadSurfApp
+~CadSurfDoc	CadSurfDoc.cpp	/^CadSurfDoc::~CadSurfDoc()$/;"	f	class:CadSurfDoc
+~CadSurfDoc	CadSurfDoc.h	/^    ~CadSurfDoc();$/;"	p	class:CadSurfDoc
+~CadSurfView	CadSurfView.cpp	/^CadSurfView::~CadSurfView()$/;"	f	class:CadSurfView
+~CadSurfView	CadSurfView.h	/^    ~CadSurfView();$/;"	p	class:CadSurfView
+~GridSettings	.ui/GridSettings.cpp	/^GridSettings::~GridSettings()$/;"	f	class:GridSettings
+~GridSettings	.ui/GridSettings.h	/^    ~GridSettings();$/;"	p	class:GridSettings
+~MDIWindow	MDIWindow.cpp	/^MDIWindow::~MDIWindow()$/;"	f	class:MDIWindow
+~MDIWindow	MDIWindow.h	/^	~MDIWindow();$/;"	p	class:MDIWindow
+~MatlEditor	.ui/MaterialDlg.cpp	/^MatlEditor::~MatlEditor()$/;"	f	class:MatlEditor
+~MatlEditor	.ui/MaterialDlg.h	/^    ~MatlEditor();$/;"	p	class:MatlEditor
+~QGLView	QGLView.cpp	/^QGLView::~QGLView()$/;"	f	class:QGLView
+~QGLView	QGLView.h	/^	virtual ~QGLView();$/;"	p	class:QGLView

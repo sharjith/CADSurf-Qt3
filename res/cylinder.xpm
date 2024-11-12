@@ -1,0 +1,22 @@
+/* XPM */
+static const char *cylinder[]={
+"16 16 3 1",
+". c None",
+"a c #c0c000",
+"# c #ffff00",
+"................",
+"...#########....",
+".##aaaaaaaaa##..",
+".##aaaaaaaaa##..",
+".#a#########a#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".#aa##aaaaaaa#..",
+".##a##aaaaaa##..",
+".##a##aaaaaa##..",
+"...#########....",
+"................"};

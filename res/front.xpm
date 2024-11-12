@@ -1,0 +1,23 @@
+/* XPM */
+static const char *front[]={
+"16 16 4 1",
+". c None",
+"a c #800000",
+"# c #808080",
+"b c #ffff00",
+"................",
+"................",
+"....##########..",
+"...##.......##..",
+"..#.#......#.#..",
+".aaaaaaaaaa..#..",
+".aaaaaaaaaa..#..",
+".aaaaaaaaaa..#..",
+".aaaaaaaaaa..#..",
+".aaabbbaaaa..#..",
+".aaaabbaaaa..#..",
+".aaababaaaa###..",
+".aabaaaaaaa.#...",
+".abaaaaaaaa#....",
+".baaaaaaaaa.....",
+"................"};
